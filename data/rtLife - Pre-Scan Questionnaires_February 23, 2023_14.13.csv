@@ -1,0 +1,1426 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,subject_id,experimenter,POMS_1,POMS_2,POMS_3,POMS_4,POMS_5,POMS_6,POMS_7,POMS_8,POMS_9,POMS_10,POMS_11,POMS_12,POMS_13,POMS_14,POMS_15,POMS_16,POMS_17,POMS_18,POMS_19,POMS_20,POMS_21,POMS_22,POMS_23,POMS_24,POMS_25,POMS_26,POMS_27,POMS_28,POMS_29,POMS_30,POMS_31,POMS_32,POMS_33,POMS_34,POMS_35,POMS_36,POMS_37,POMS_38,POMS_39,POMS_40,PSS_1,PSS_2,PSS_3,PSS_4,PSS_5,PSS_6,PSS_7,PSS_8,PSS_9,PSS_10,stai_state_1,stai_state_2,stai_state_3,stai_state_4,stai_state_5,stai_state_6,stai_state_7,stai_state_8,stai_state_9,stai_state_10,stai_state_11,stai_state_12,stai_state_13,stai_state_14,stai_state_15,stai_state_16,stai_state_17,stai_state_18,stai_state_19,stai_state_20,stai_trait_1,stai_trait_2,stai_trait_3,stai_trait_4,stai_trait_5,stai_trait_6,stai_trait_7,stai_trait_8,stai_trait_9,stai_trait_10,stai_trait_11,stai_trait_12,stai_trait_13,stai_trait_14,stai_trait_15,stai_trait_16,stai_trait_17,stai_trait_18,stai_trait_19,stai_trait_20,CES-D_1,CES-D_2,CES-D_3,CES-D_4,CES-D_5,CES-D_6,CES-D_7,CES-D_8,CES-D_9,CES-D_10,CES-D_11,CES-D_12,CES-D_13,CES-D_14,CES-D_15,CES-D_16,CES-D_17,CES-D_18,CES-D_19,CES-D_20,MTQ_Items_1-12_1,MTQ_Items_1-12_2,MTQ_Items_1-12_3,MTQ_Items_1-12_4,MTQ_Items_1-12_5,MTQ_Items_1-12_6,MTQ_Items_1-12_7,MTQ_Items_1-12_8,MTQ_Items_1-12_9,MTQ_Items_1-12_10,MTQ_Items_1-12_11,MTQ_Items_1-12_12,MTQ_Items_13-24_1,MTQ_Items_13-24_2,MTQ_Items_13-24_3,MTQ_Items_13-24_4,MTQ_Items_13-24_5,MTQ_Items_13-24_6,MTQ_Items_13-24_7,MTQ_Items_13-24_8,MTQ_Items_13-24_9,MTQ_Items_13-24_10,MTQ_Items_13-24_11,MTQ_Items_13-24_12,MTQ_Items_25-36_1,MTQ_Items_25-36_2,MTQ_Items_25-36_3,MTQ_Items_25-36_4,MTQ_Items_25-36_5,MTQ_Items_25-36_6,MTQ_Items_25-36_7,MTQ_Items_25-36_8,MTQ_Items_25-36_9,MTQ_Items_25-36_10,MTQ_Items_25-36_11,MTQ_Items_25-36_12,MTQ_Items_37-48_1,MTQ_Items_37-48_2,MTQ_Items_37-48_3,MTQ_Items_37-48_4,MTQ_Items_37-48_5,MTQ_Items_37-48_6,MTQ_Items_37-48_7,MTQ_Items_37-48_8,MTQ_Items_37-48_9,MTQ_Items_37-48_10,MTQ_Items_37-48_11,MTQ_Items_37-48_12,GSE_1,GSE_2,GSE_3,GSE_4,GSE_5,GSE_6,GSE_7,GSE_8,GSE_9,GSE_10,EBQ_1,EBQ_2,EBQ_3,EBQ_4,EBQ_5,EBQ_6,EBQ_7,EBQ_8,EBQ_9,EBQ_10,EBQ_11,EBQ_12,EBQ_13,EBQ_14,EBQ_15,EBQ_16,mbq_1,mbq_2,mbq_3,mbq_4,mbq_5,mbq_6,mbq_7,mbq_8,mbq_9,mbq_10,mbq_11,mbq_12,mbq_13,mbq_14,mbq_15,mbq_16,mbq_17,mbq_18,mbq_19,mbq_20,mbq_21,mbq_22,mbq_23,mbq_24,mbq_25,mbq_26,mbq_27,mbq_28,mbq_29,mbq_30,mbq_31,mbq_32,mbq_33,mbq_34,mbq_35,mbq_36,mbq_37,mbq_38,mbq_39,mbq_40,mbq_41,mbq_42,mbq_43,mbq_44,mbq_45,mbq_46,mbq_47,mbq_48,SPSRQ_1,SPSRQ_2,SPSRQ_3,SPSRQ_4,SPSRQ_5,SPSRQ_6,SPSRQ_7,SPSRQ_8,SPSRQ_9,SPSRQ_10,SPSRQ_11,SPSRQ_12,SPSRQ_13,SPSRQ_14,SPSRQ_15,SPSRQ_16,SPSRQ_17,SPSRQ_18,SPSRQ_19,SPSRQ_20,SPSRQ_21,SPSRQ_22,SPSRQ_23,SPSRQ_24,SPSRQ_25,SPSRQ_26,SPSRQ_27,SPSRQ_28,SPSRQ_29,SPSRQ_30,SPSRQ_31,SPSRQ_32,SPSRQ_33,SPSRQ_34,SPSRQ_35,SPSRQ_36,SPSRQ_37,SPSRQ_38,SPSRQ_39,SPSRQ_40,SPSRQ_41,SPSRQ_42,SPSRQ_43,SPSRQ_44,SPSRQ_45,SPSRQ_46,SPSRQ_47,SPSRQ_48,demo_age,demo_ethnicity,demo_gender,demo_gender_3_TEXT,demo_race,demo_race_6_TEXT
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Experimenter: Please enter the participant's study ID,Experimenter: Please enter your initials,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Tense,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Angry,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Worn Out,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Unhappy,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Proud,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Lively,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Confused,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Sad,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Active,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - On-Edge,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Grouchy,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Ashamed,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Energetic,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Hopeless,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Uneasy,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Restless,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Unable to concentrate,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Fatigued,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Competent,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Annoyed,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Discouraged,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Resentful,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Nervous,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Miserable,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Confident,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Bitter,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Exhausted,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Anxious,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Helpless,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Weary,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Satisfied,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Bewildered,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Furious,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Full of Pep,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Worthless,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Forgetful,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Vigorous,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Uncertain about things,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Bushed,Below is a list of words that describe feelings people have. Please SELECT THE RESPONSE THAT BEST DESCRIBES HOW YOU FEEL RIGHT NOW. - Embarrassed,"1. In the last month, how often have you been upset because of something that happened unexpectedly?","2. In the last month, how often have you felt that you were unable to control the important things in your life?","3. In the last month, how often have you felt nervous or stressed?","4. In the last month, how often have you felt confident about your ability to handle your personal problems?","5. In the last month, how often have you found that you could not cope with all the things that you had to do?","6. In the last month, how often have you found that you could not cope with all the things that you had to do?","7. In the last month, how often have you been able to control irritations in your life?","8. In the last month, how often have you felt that you were on top of things?","9. In the last month, how often have you been angered because of things that happened that were outside of your control?","10. In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 1. I feel calm","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 2. I feel secure","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 3. I am tense","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 4. I feel strained","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 5. I feel at ease","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 6. I feel upset","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 7. I am presently worrying over possible misfortunes","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 8. I feel satisfied","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 9. I feel frightened","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 10. I feel comfortable","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 11. I feel self-confident","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 12. I feel nervous","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 13. I am jittery","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 14. I feel indecisive","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 15. I am relaxed","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 16. I feel content","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 17. I am worried","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 18. I feel confused","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 19. I feel steady","A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you feel right now, that is, at this moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - 20. I feel pleasant",A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 1. I feel pleasant,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 2. I feel nervous & restless,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 3. I feel satisfied with myself,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 4. I wish I could be as happy as others seem to be,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 5. I feel like a failure,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 6. I feel rested,"A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 7. I am ""calm, cool, & collected""",A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 8. I feel that difficulties are piling up so that I cannot overcome them,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 9. I worry too much over something that really doesn't matter,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 10. I am happy,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 11. I have disturbing thoughts,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 12. I lack self-confidence,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 13. I feel secure,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 14. I make decisions easily,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 15. I feel inadequate,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 16. I am content,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 17. Some unimportant thought runs through my mind and bothers me,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 18. I take disappointments so keenly that I can't put them out of my mind,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 19. I am a steady person,A number of statements which people have used to describe themselves are given below. Read each statement and then select the appropriate response to the right of the statement to indicate how you generally feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel. - 20. I get in a state of tension or turmoil as I think over my recent concerns & interests,CES-D - I was bothered by things that usually don't bother me.,CES-D - I did not feel like eating; my appetite was poor.,CES-D - I felt that I could not shake off the blues even with help from my family or friends.,CES-D - I felt I was just as good as other people.,CES-D - I had trouble keeping my mind on what I was doing.,CES-D - I felt depressed.,CES-D - I felt that everything I did was an effort.,CES-D - I felt hopeful about the future.,CES-D - I thought my life had been a failure.,CES-D - I felt fearful.,CES-D - My sleep was restless.,CES-D - I was happy.,CES-D - I talked less than usual.,CES-D - I felt lonely.,CES-D - People were unfriendly.,CES-D - I enjoyed life.,CES-D - I had crying spells.,CES-D - I felt sad.,CES-D - I felt that people disliked me.,CES-D - I could not get going.,"MTQ_Items_1-12 - 1. When I become interested in something, I try to learn as much about it as I can.",MTQ_Items_1-12 - 2. I set goals as a way to improve my performance.,MTQ_Items_1-12 - 3. It really upsets me when someone does something better than I do.,MTQ_Items_1-12 - 4. I perform best when I compete with others.,"MTQ_Items_1-12 - 5. When working on important projects, I am constantly fearful that I will make a mistake.","MTQ_Items_1-12 - 6. If I know someone is judging me, I get so focused on how I am doing that I have difficulty concentrating on the task.","MTQ_Items_1-12 - 7. When I am learning something new, I try to understand it completely.","MTQ_Items_1-12 - 8. If I already do something well, I don't see the need to challenge myself to do better.",MTQ_Items_1-12 - 9. I tend to put extra effort into tasks that involve competition with others.,MTQ_Items_1-12 - 10. I am not a competitive person.,MTQ_Items_1-12 - 11. I do not get nervous in achievement settings.,MTQ_Items_1-12 - 12. My heart beats fast before I begin difficult tasks.,"MTQ_Items_13-24 - 13. Even when I have studied hard enough to get a good grade, I study more because I want to completely understand the material.","MTQ_Items_13-24 - 14. When learning something new, I focus on improving my performance.",MTQ_Items_13-24 - 15. It is important for me to outperform my co workers.,MTQ_Items_13-24 - 16. I try to avoid competitive situations.,MTQ_Items_13-24 - 17. I am unconcerned even if I know that other people are forming an unfavorable impression of me.,MTQ_Items_13-24 - 18. I have trouble relaxing because I worry about things at work.,MTQ_Items_13-24 - 19. I like to take classes that challenge me.,MTQ_Items_13-24 - 20. I compete with myself -- challenging myself to do things better than I have done before.,MTQ_Items_13-24 - 21. Whether or not I feel good about my performance depends on how it compares to the performance of others.,MTQ_Items_13-24 - 22. I would rather cooperate than compete.,"MTQ_Items_13-24 - 23. Before beginning an important project, I think of the consequences of failing.",MTQ_Items_13-24 - 24. I am unable to concentrate fully in stressful situations.,MTQ_Items_25-36 - 25. I am an intellectually curious person.,MTQ_Items_25-36 - 26. I set high standards for myself and work toward achieving them.,MTQ_Items_25-36 - 27. I am motivated to do things better than others.,MTQ_Items_25-36 - 28. I like to turn things into a competition.,MTQ_Items_25-36 - 29. I am afraid of other people noticing my shortcomings.,MTQ_Items_25-36 - 30. I get headaches when I have a lot of important things to do.,MTQ_Items_25-36 - 31. I prefer activities that provide me the opportunity to learn something new.,MTQ_Items_25-36 - 32. I work hard at everything I undertake until I am satisfied with the result.,MTQ_Items_25-36 - 33. I strive to do my job better than the people I work with.,"MTQ_Items_25-36 - 34. Even in non-competitive situations, I find ways to compete with others.",MTQ_Items_25-36 - 35. I get nervous just thinking about having an important project evaluated.,MTQ_Items_25-36 - 36. I am able to remain calm and relaxed in stressful situations.,MTQ_Items_37-48 - 37. I am naturally motivated to learn.,MTQ_Items_37-48 - 38. I do not set difficult goals for myself.,MTQ_Items_37-48 - 39. I compare my performance to that of others.,MTQ_Items_37-48 - 40. I worry about the possibility of failure.,MTQ_Items_37-48 - 41. I am able to remain calm and relaxed before I take a test.,MTQ_Items_37-48 - 42. I thirst for knowledge.,MTQ_Items_37-48 - 43. My personal standards often exceed those required for the successful completion of a project.,MTQ_Items_37-48 - 44. I get tense when other people assess my progress.,MTQ_Items_37-48 - 45. I get an uneasy feeling in my stomach when working toward something I really want to accomplish.,MTQ_Items_37-48 - 46. I worry about how others will view my work performance.,MTQ_Items_37-48 - 47. I lose sleep because I am troubled by thoughts of failure.,MTQ_Items_37-48 - 48. I am cautious about trying to do something that could lead to embarrassment.,Please respond to the following statements. - 1. I can always manage to solve difficult problems if I try hard enough.,"Please respond to the following statements. - 2. If someone opposes me, I can find the means and ways to get what I want.",Please respond to the following statements. - 3. It is easy for me to stick to my aims and accomplish my goals.,Please respond to the following statements. - 4. I am confident that I could deal efficiently with unexpected events.,"Please respond to the following statements. - 5. Thanks to my resourcefulness, I know how to handle unforeseen situations.",Please respond to the following statements. - 6. I can solve most problems if I invest the necessary effort.,Please respond to the following statements. - 7. I can remain calm when facing difficulties because I can rely on my coping abilities.,"Please respond to the following statements. - 8. When I am confronted with a problem, I can usually find several solutions.","Please respond to the following statements. - 9. If I am in trouble, I can usually think of a solution",Please respond to the following statements. - 10. I can usually handle whatever comes my way.,"EBQ - Once people are experiencing negative emotions, there is nothing they can do about modifying them.",EBQ - People cannot control their positive emotions.,EBQ - There is very little use for negative emotions.,EBQ - Positive emotions are very unhelpful to people.,"EBQ - It doesn’t matter how hard people try, they cannot change their negative emotions.",EBQ - People cannot learn techniques to effectively control their positive emotions.,EBQ - People don’t need their negative emotions.,EBQ - There is very little use for positive emotions.,EBQ - People cannot control their negative emotions.,"EBQ - It doesn’t matter how hard people try, they cannot change their positive emotions.",EBQ - Negative emotions are harmful.,EBQ - People don’t need their positive emotions.,EBQ - People cannot learn techniques to effectively control their negative emotions.,"EBQ - Once people are experiencing positive emotions, there is nothing they can do about modifying them.",EBQ - The presence of negative emotions is a bad thing for people.,EBQ - Positive emotions are harmful.,"mbq - You can only feel unmotivated generally, without a specific task at hand.",mbq - It is possible to feel unmotivated without a goal in mind.,mbq - People cannot control how motivated they feel.,mbq - Feeling unmotivated is overwhelmingly detrimental to people.,"mbq - To feel unmotivated, it must be for a specific goal.",mbq - Feeling unmotivated prevents you from taking any action.,"mbq - To feel motivated, you must have a specific goal.",mbq - Feeling motivated should not be central to successful relationships (with family or friends).,mbq - Feeling unmotivated isn’t an important part of life.,mbq - Feeling motivated is not necessary for living a balanced life.,mbq - Feeling motivated is a bad thing for people.,mbq - Feeling unmotivated should not be central to successful relationships (with family or friends).,mbq - How unmotivated someone feels is not something they can control.,mbq - Feeling motivated is overwhelmingly detrimental to people.,mbq - People don’t need to feel motivated.,mbq - Feeling motivated helps you take a specific action.,mbq - How motivated someone feels is not something they can control.,"mbq - Once people are feeling motivated, there is nothing they can do about modifying this.",mbq - People don’t need to feel unmotivated.,mbq - There is very little use for feeling motivated.,mbq - There is very little use for feeling unmotivated.,"mbq - Once people are feeling unmotivated, there is nothing they can do about modifying this.",mbq - Feeling motivated isn’t an important part of life.,"mbq - It doesn’t matter how hard people try, they cannot change how unmotivated they feel.",mbq - Feeling motivated is not necessary in life.,mbq - Feeling unmotivated is harmful.,mbq - It is possible to feel motivated without a goal in mind.,mbq - Feeling motivated shouldn’t play a crucial part in people’s lives.,mbq - You can only feel motivated for a specific task at hand.,mbq - Feeling unmotivated is not necessary in life.,mbq - People cannot control whether they feel unmotivated or not.,mbq - It is impossible to feel unmotivated without a goal in mind.,mbq - Feeling motivated is harmful.,mbq - People cannot learn techniques to effectively control how unmotivated they feel.,mbq - Feeling unmotivated is very unhelpful to people.,mbq - Feeling unmotivated is not necessary for living a balanced life.,mbq - Feeling motivated helps you take any action.,mbq - Feeling unmotivated shouldn’t play a crucial part in people’s lives.,"mbq - It doesn’t matter how hard people try, they cannot change how motivated they feel.",mbq - People cannot control feeling unmotivated.,mbq - You can only feel motivated without a specific task at hand.,mbq - Feeling unmotivated prevents you from taking a specific action.,mbq - People cannot learn techniques to effectively control how motivated they feel.,mbq - You can only feel unmotivated for a specific task at hand.,"mbq - To feel motivated, you do not need a specific goal.",mbq - Feeling unmotivated is a bad thing for people.,mbq - It is impossible to feel motivated without a goal in mind.,"mbq - To feel unmotivated, it must not be for a specific goal.",SPSRQ - 1. Do you often refrain from doing something because you are afraid of it being illegal?,SPSRQ - 2. Does the good prospect of obtaining money motivate you strongly to do some things?,SPSRQ - 3. Do you prefer not to ask for something when you are not sure you will obtain it?,"SPSRQ - 4. Are you frequently encouraged to act by the possibility of being valued in your work, in your studies, with your friends or with your family?",SPSRQ - 5. Are you often afraid of new or unexpected situations?,SPSRQ - 6. Do you often meet people that you find physically attractive?,SPSRQ - 7. Is it difficult for you to telephone someone you do not know?,SPSRQ - 8. Do you like to take some drugs because of the pleasure you get from them?,SPSRQ - 9. Do you often renounce your rights when you know you can avoid a quarrel with a person or an organization?,SPSRQ - 10. Do you often do things to be praised?,"SPSRQ - 11. As a child, were you troubled by punishments at home or in school?",SPSRQ - 12. Do you like being the center of attention at a party of a social meeting?,"SPSRQ - 13. In tasks that you are not prepared for, do you attach great importance to the possibility of failure?",SPSRQ - 14. Do you spend a lot of your time on obtaining a good image?,SPSRQ - 15. Are you easily discouraged in difficult situations?,SPSRQ - 16. Do you need people to show their affection for you all the time?,SPSRQ - 17. Are you a shy person?,"SPSRQ - 18. When you are in a group, do you try to make your opinions the most intelligent or the funniest?","SPSRQ - 19. Whenever possible, do you avoid demonstrating your skills for fear of being embarrassed?",SPSRQ - 20. Do you often take the opportunity to pick up people you find attractive?,"SPSRQ - 21. When you are with a group, do you have difficulties selecting a good topic to talk about?","SPSRQ - 22. As a child, did you do a lot of things to get people's approval?",SPSRQ - 23. Is it often difficult for you to fall asleep when you think about things you have done or must do?,"SPSRQ - 24. Does the possibility of social advancement, move you to action, even if this involves not playing fair?",SPSRQ - 25. Do you think a lot before complaining in a restaurant if your meal is not well prepared?,SPSRQ - 26. Do you generally give preferences to those activities that imply an immediate gain?,SPSRQ - 27. Would you be bothered if you had to return to a store when you noticed you were given the wrong change?,SPSRQ - 28. Do you often have trouble resisting the temptation of doing forbidden things?,"SPSRQ - 29. Whenever you can, do you avoid going to unknown places?",SPSRQ - 30. Do you like to compete and do everything you can to win?,SPSRQ - 31. Are you often worried by things that you said or did?,SPSRQ - 32. Is it easy for you to associate tastes and smells to very pleasant events?,SPSRQ - 33. Would it be difficult for you to ask your boss for a raise (salary increase)?,SPSRQ - 34. Are there a large number of objects or sensations that remind you of pleasing events?,SPSRQ - 35. Do you generally try to avoid speaking in public?,"SPSRQ - 36. When you start to play with a slot machine, is it often difficult for you to stop?","SPSRQ - 37. Do you, on a regular basis, think that you could do more things if it was not for your insecurity or fear?",SPSRQ - 38. Do you sometimes do things for quick gains?,"SPSRQ - 39. Comparing yourself to people you know, are you afraid of many things?",SPSRQ - 40. Does your attention easily stray from your work in the presence of an attractive stranger?,SPSRQ - 41. Do you often find yourself worrying about things to the extent that performance in intellectual abilities is impaired?,SPSRQ - 42. Are you interested in money to the point of being able to do risky jobs?,SPSRQ - 43. Do you often refrain from doing something you like in order not to be rejected or disapproved of by others?,SPSRQ - 44. Do you like to put competitive ingredients in all our activities?,"SPSRQ - 45. Generally, do you pay more attention to threats than to pleasant events?",SPSRQ - 46. Would you like to be a socially powerful person?,SPSRQ - 47. Do you often refrain from doing something because of your fear of being embarrassed?,SPSRQ - 48. Do you like displaying your physical abilities even though this may involve danger?,Please enter your current age in years:,Please select your ethnicity:,Please select your gender: - Selected Choice,Please select your gender: - Neither Male nor Female (please specify): - Text,Please select your race (select all that apply): - Selected Choice,Please select your race (select all that apply): - Other (please specify): - Text
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID36_TEXT""}","{""ImportId"":""QID37_TEXT""}","{""ImportId"":""QID18_1""}","{""ImportId"":""QID18_2""}","{""ImportId"":""QID18_3""}","{""ImportId"":""QID18_4""}","{""ImportId"":""QID18_5""}","{""ImportId"":""QID18_6""}","{""ImportId"":""QID18_7""}","{""ImportId"":""QID18_8""}","{""ImportId"":""QID18_9""}","{""ImportId"":""QID18_10""}","{""ImportId"":""QID18_11""}","{""ImportId"":""QID18_12""}","{""ImportId"":""QID18_13""}","{""ImportId"":""QID18_14""}","{""ImportId"":""QID18_15""}","{""ImportId"":""QID18_16""}","{""ImportId"":""QID18_17""}","{""ImportId"":""QID18_18""}","{""ImportId"":""QID18_19""}","{""ImportId"":""QID18_20""}","{""ImportId"":""QID18_21""}","{""ImportId"":""QID18_22""}","{""ImportId"":""QID18_23""}","{""ImportId"":""QID18_24""}","{""ImportId"":""QID18_25""}","{""ImportId"":""QID18_26""}","{""ImportId"":""QID18_27""}","{""ImportId"":""QID18_28""}","{""ImportId"":""QID18_29""}","{""ImportId"":""QID18_30""}","{""ImportId"":""QID18_31""}","{""ImportId"":""QID18_32""}","{""ImportId"":""QID18_33""}","{""ImportId"":""QID18_34""}","{""ImportId"":""QID18_35""}","{""ImportId"":""QID18_36""}","{""ImportId"":""QID18_37""}","{""ImportId"":""QID18_38""}","{""ImportId"":""QID18_39""}","{""ImportId"":""QID18_40""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID5_2""}","{""ImportId"":""QID5_3""}","{""ImportId"":""QID5_4""}","{""ImportId"":""QID5_5""}","{""ImportId"":""QID5_6""}","{""ImportId"":""QID5_7""}","{""ImportId"":""QID5_8""}","{""ImportId"":""QID5_9""}","{""ImportId"":""QID5_10""}","{""ImportId"":""QID5_11""}","{""ImportId"":""QID5_12""}","{""ImportId"":""QID5_13""}","{""ImportId"":""QID5_14""}","{""ImportId"":""QID5_15""}","{""ImportId"":""QID5_16""}","{""ImportId"":""QID5_17""}","{""ImportId"":""QID5_18""}","{""ImportId"":""QID5_19""}","{""ImportId"":""QID5_20""}","{""ImportId"":""QID2_1""}","{""ImportId"":""QID2_2""}","{""ImportId"":""QID2_3""}","{""ImportId"":""QID2_4""}","{""ImportId"":""QID2_5""}","{""ImportId"":""QID2_6""}","{""ImportId"":""QID2_7""}","{""ImportId"":""QID2_8""}","{""ImportId"":""QID2_9""}","{""ImportId"":""QID2_10""}","{""ImportId"":""QID2_11""}","{""ImportId"":""QID2_12""}","{""ImportId"":""QID2_13""}","{""ImportId"":""QID2_14""}","{""ImportId"":""QID2_15""}","{""ImportId"":""QID2_16""}","{""ImportId"":""QID2_17""}","{""ImportId"":""QID2_18""}","{""ImportId"":""QID2_19""}","{""ImportId"":""QID2_20""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_2""}","{""ImportId"":""QID30_3""}","{""ImportId"":""QID30_4""}","{""ImportId"":""QID30_5""}","{""ImportId"":""QID30_6""}","{""ImportId"":""QID30_7""}","{""ImportId"":""QID30_8""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_10""}","{""ImportId"":""QID30_11""}","{""ImportId"":""QID30_12""}","{""ImportId"":""QID30_13""}","{""ImportId"":""QID30_14""}","{""ImportId"":""QID30_15""}","{""ImportId"":""QID30_16""}","{""ImportId"":""QID30_17""}","{""ImportId"":""QID30_18""}","{""ImportId"":""QID30_19""}","{""ImportId"":""QID30_20""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID10_2""}","{""ImportId"":""QID10_3""}","{""ImportId"":""QID10_4""}","{""ImportId"":""QID10_5""}","{""ImportId"":""QID10_6""}","{""ImportId"":""QID10_7""}","{""ImportId"":""QID10_8""}","{""ImportId"":""QID10_9""}","{""ImportId"":""QID10_10""}","{""ImportId"":""QID10_11""}","{""ImportId"":""QID10_12""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID8_2""}","{""ImportId"":""QID8_3""}","{""ImportId"":""QID8_4""}","{""ImportId"":""QID8_5""}","{""ImportId"":""QID8_6""}","{""ImportId"":""QID8_7""}","{""ImportId"":""QID8_8""}","{""ImportId"":""QID8_9""}","{""ImportId"":""QID8_10""}","{""ImportId"":""QID8_11""}","{""ImportId"":""QID8_12""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID7_2""}","{""ImportId"":""QID7_3""}","{""ImportId"":""QID7_4""}","{""ImportId"":""QID7_5""}","{""ImportId"":""QID7_6""}","{""ImportId"":""QID7_7""}","{""ImportId"":""QID7_8""}","{""ImportId"":""QID7_9""}","{""ImportId"":""QID7_10""}","{""ImportId"":""QID7_11""}","{""ImportId"":""QID7_12""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID9_2""}","{""ImportId"":""QID9_3""}","{""ImportId"":""QID9_4""}","{""ImportId"":""QID9_5""}","{""ImportId"":""QID9_6""}","{""ImportId"":""QID9_7""}","{""ImportId"":""QID9_8""}","{""ImportId"":""QID9_9""}","{""ImportId"":""QID9_10""}","{""ImportId"":""QID9_11""}","{""ImportId"":""QID9_12""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID31_2""}","{""ImportId"":""QID31_3""}","{""ImportId"":""QID31_4""}","{""ImportId"":""QID31_5""}","{""ImportId"":""QID31_6""}","{""ImportId"":""QID31_7""}","{""ImportId"":""QID31_8""}","{""ImportId"":""QID31_9""}","{""ImportId"":""QID31_10""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_3""}","{""ImportId"":""QID33_4""}","{""ImportId"":""QID33_5""}","{""ImportId"":""QID33_6""}","{""ImportId"":""QID33_7""}","{""ImportId"":""QID33_8""}","{""ImportId"":""QID33_9""}","{""ImportId"":""QID33_10""}","{""ImportId"":""QID33_11""}","{""ImportId"":""QID33_12""}","{""ImportId"":""QID33_13""}","{""ImportId"":""QID33_14""}","{""ImportId"":""QID33_15""}","{""ImportId"":""QID33_16""}","{""ImportId"":""QID40_1""}","{""ImportId"":""QID40_2""}","{""ImportId"":""QID40_3""}","{""ImportId"":""QID40_4""}","{""ImportId"":""QID40_5""}","{""ImportId"":""QID40_6""}","{""ImportId"":""QID40_7""}","{""ImportId"":""QID40_8""}","{""ImportId"":""QID40_9""}","{""ImportId"":""QID40_10""}","{""ImportId"":""QID40_11""}","{""ImportId"":""QID40_12""}","{""ImportId"":""QID40_13""}","{""ImportId"":""QID40_14""}","{""ImportId"":""QID40_15""}","{""ImportId"":""QID40_16""}","{""ImportId"":""QID40_17""}","{""ImportId"":""QID40_18""}","{""ImportId"":""QID40_19""}","{""ImportId"":""QID40_20""}","{""ImportId"":""QID40_21""}","{""ImportId"":""QID40_22""}","{""ImportId"":""QID40_23""}","{""ImportId"":""QID40_24""}","{""ImportId"":""QID40_25""}","{""ImportId"":""QID40_26""}","{""ImportId"":""QID40_27""}","{""ImportId"":""QID40_28""}","{""ImportId"":""QID40_29""}","{""ImportId"":""QID40_30""}","{""ImportId"":""QID40_31""}","{""ImportId"":""QID40_32""}","{""ImportId"":""QID40_33""}","{""ImportId"":""QID40_34""}","{""ImportId"":""QID40_35""}","{""ImportId"":""QID40_36""}","{""ImportId"":""QID40_38""}","{""ImportId"":""QID40_39""}","{""ImportId"":""QID40_40""}","{""ImportId"":""QID40_41""}","{""ImportId"":""QID40_42""}","{""ImportId"":""QID40_43""}","{""ImportId"":""QID40_44""}","{""ImportId"":""QID40_45""}","{""ImportId"":""QID40_46""}","{""ImportId"":""QID40_47""}","{""ImportId"":""QID40_48""}","{""ImportId"":""QID40_49""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID35_2""}","{""ImportId"":""QID35_3""}","{""ImportId"":""QID35_4""}","{""ImportId"":""QID35_5""}","{""ImportId"":""QID35_6""}","{""ImportId"":""QID35_7""}","{""ImportId"":""QID35_8""}","{""ImportId"":""QID35_9""}","{""ImportId"":""QID35_10""}","{""ImportId"":""QID35_11""}","{""ImportId"":""QID35_12""}","{""ImportId"":""QID35_13""}","{""ImportId"":""QID35_14""}","{""ImportId"":""QID35_15""}","{""ImportId"":""QID35_16""}","{""ImportId"":""QID35_17""}","{""ImportId"":""QID35_18""}","{""ImportId"":""QID35_19""}","{""ImportId"":""QID35_20""}","{""ImportId"":""QID35_21""}","{""ImportId"":""QID35_22""}","{""ImportId"":""QID35_23""}","{""ImportId"":""QID35_24""}","{""ImportId"":""QID35_25""}","{""ImportId"":""QID35_26""}","{""ImportId"":""QID35_27""}","{""ImportId"":""QID35_28""}","{""ImportId"":""QID35_29""}","{""ImportId"":""QID35_30""}","{""ImportId"":""QID35_31""}","{""ImportId"":""QID35_32""}","{""ImportId"":""QID35_33""}","{""ImportId"":""QID35_34""}","{""ImportId"":""QID35_35""}","{""ImportId"":""QID35_36""}","{""ImportId"":""QID35_37""}","{""ImportId"":""QID35_38""}","{""ImportId"":""QID35_39""}","{""ImportId"":""QID35_40""}","{""ImportId"":""QID35_41""}","{""ImportId"":""QID35_42""}","{""ImportId"":""QID35_43""}","{""ImportId"":""QID35_44""}","{""ImportId"":""QID35_45""}","{""ImportId"":""QID35_46""}","{""ImportId"":""QID35_47""}","{""ImportId"":""QID35_48""}","{""ImportId"":""QID41_TEXT""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID43_3_TEXT""}","{""ImportId"":""QID44""}","{""ImportId"":""QID44_6_TEXT""}"
+2022-04-07 07:42:03,2022-04-07 07:59:52,IP Address,152.16.191.121,100,1069,True,2022-04-07 07:59:53,R_3dZaNoCVhqjmSls,,,,,35.98060000000000258069121628068387508392333984375,-78.84260000000000445652403868734836578369140625,anonymous,EN,104,RW,Not At All,Not At All,Not At All,Not At All,A Little,Moderately,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Extremely,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,A Little,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,2 - sometimes,2 - sometimes,3 - fairly often,4 - very often,0 - never,0 - never,3 - fairly often,3 - fairly often,2 - sometimes,0 - never,Moderately so,Very much so,Somewhat,Not at all,Moderately so,Not at all,Not at all,Moderately so,Not at all,Very much so,Very much so,Not at all,Somewhat,Not at all,Moderately so,Moderately so,Not at all,Not at all,Moderately so,Moderately so,Moderately so,Somewhat,Moderately so,Moderately so,Not at all,Somewhat,Somewhat,Not at all,Somewhat,Somewhat,Not at all,Not at all,Moderately so,Somewhat,Not at all,Moderately so,Somewhat,Moderately so,Moderately so,Moderately so,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Very TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very UNTRUE of me,UNTRUE of me,Very TRUE of me,UNTRUE of me,Very TRUE of me,Very UNTRUE of me,TRUE of me,UNTRUE of me,UNTRUE of me,TRUE of me,Very TRUE of me,Very UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,UNTRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Very UNTRUE of me,TRUE of me,UNTRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Very UNTRUE of me,UNTRUE of me,Exactly true,Moderately true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,2,3,3,Strongly disagree,3,2,2,Strongly disagree,3,2,2,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,,,,,,
+2022-04-13 10:51:17,2022-04-13 11:03:33,IP Address,152.16.191.33,100,736,True,2022-04-13 11:03:34,R_1Inl0nnsbETvTP7,,,,,35.9145,-78.9225,anonymous,EN,105,RW,Not At All,Not At All,Not At All,A Little,A Little,A Little,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,A Little,A Little,Not At All,Not At All,Not At All,A Little,Moderately,Not At All,A Little,A Little,A Little,Not At All,A Little,Not At All,A Little,A Little,A Little,Moderately,Not At All,Not At All,A Little,Not At All,A Little,Not At All,Not At All,Extremely,Not At All,Not At All,3 - fairly often,3 - fairly often,4 - very often,4 - very often,4 - very often,4 - very often,2 - sometimes,3 - fairly often,4 - very often,4 - very often,Somewhat,Somewhat,Not at all,Not at all,Moderately so,Not at all,Very much so,Somewhat,Not at all,Moderately so,Moderately so,Somewhat,Not at all,Not at all,Somewhat,Somewhat,Moderately so,Not at all,Somewhat,Somewhat,Not at all,Moderately so,Not at all,Moderately so,Somewhat,Not at all,Not at all,Moderately so,Somewhat,Not at all,Not at all,Somewhat,Not at all,Somewhat,Somewhat,Not at all,Somewhat,Moderately so,Not at all,Moderately so,Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Very TRUE of me,Very TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,TRUE of me,TRUE of me,TRUE of me,TRUE of me,TRUE of me,Very TRUE of me,Somewhat TRUE of me,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,2,2,3,2,2,2,2,2,3,3,5,2,2,2,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,,,,,,
+2022-05-13 09:34:25,2022-05-13 09:49:41,Survey Preview,,100,915,True,2022-05-13 09:49:41,R_yVDkU3Z0kVrbmc9,,,,,36.0251,-78.9217,preview,EN,x,x,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,Extremely,4 - very often,4 - very often,4 - very often,4 - very often,4 - very often,4 - very often,4 - very often,4 - very often,4 - very often,4 - very often,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Very much so,Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,"Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+","Strongly Agree
+7
+",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,Hispanic or Latino,Male,,American Indian / Alaska Native,
+2022-06-27 06:59:18,2022-06-27 07:28:33,IP Address,152.16.191.121,100,1755,True,2022-06-27 07:28:33,R_2Vf32KPDKT08sqv,,,,,35.9806,-78.8426,anonymous,EN,113,RW,A Little,Not At All,Moderately,Quite a Lot,Quite a Lot,Not At All,Not At All,Moderately,A Little,A Little,Moderately,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,A Little,Not At All,A Little,A Little,Moderately,A Little,Moderately,A Little,A Little,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,2 - sometimes,3 - fairly often,3 - fairly often,3 - fairly often,1 - almost never,1 - almost never,3 - fairly often,3 - fairly often,2 - sometimes,1 - almost never,Moderately so,Moderately so,Somewhat,Not at all,Not at all,Somewhat,Somewhat,Somewhat,Not at all,Somewhat,Moderately so,Not at all,Not at all,Not at all,Somewhat,Somewhat,Somewhat,Not at all,Somewhat,Somewhat,Somewhat,Moderately so,Moderately so,Somewhat,Not at all,Somewhat,Moderately so,Somewhat,Somewhat,Somewhat,Moderately so,Not at all,Somewhat,Moderately so,Somewhat,Somewhat,Somewhat,Not at all,Moderately so,Moderately so,Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),TRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Very TRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,UNTRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,Very TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Exactly true,Moderately true,Moderately true,3,3,2,5,3,3,Strongly disagree,Strongly disagree,3,3,Neither agree nor disagree,2,3,3,3,3,"Strongly Disagree
+1
+","Strongly Agree
+7
+",5,"Strongly Agree
+7
+",3,6,3,3,"Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,"Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+","Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Agree
+7
+",3,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Agree
+7
+",5,3,3,6,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",6,6,3,"Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+",3,6,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",5,"Strongly Agree
+7
+",3,3,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,19,Not Hispanic or Latino,Male,,Caucasian,
+2022-06-30 07:56:31,2022-06-30 08:36:53,IP Address,152.16.191.33,100,2421,True,2022-06-30 08:36:53,R_2P4DwYPCDdWgOS2,,,,,35.9806,-78.8426,anonymous,EN,110,RW,Moderately,Not At All,Quite a Lot,A Little,A Little,A Little,Quite a Lot,A Little,A Little,Moderately,A Little,Not At All,A Little,A Little,Quite a Lot,A Little,A Little,Quite a Lot,Moderately,A Little,A Little,Not At All,A Little,Not At All,Moderately,Moderately,Quite a Lot,Quite a Lot,A Little,A Little,A Little,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Quite a Lot,Moderately,1 - almost never,4 - very often,3 - fairly often,2 - sometimes,1 - almost never,1 - almost never,2 - sometimes,2 - sometimes,0 - never,1 - almost never,Very much so,Moderately so,Moderately so,Moderately so,Moderately so,Not at all,Not at all,Moderately so,Not at all,Moderately so,Moderately so,Moderately so,Not at all,Moderately so,Moderately so,Somewhat,Somewhat,Somewhat,Somewhat,Moderately so,Moderately so,Somewhat,Moderately so,Somewhat,Not at all,Not at all,Moderately so,Somewhat,Not at all,Moderately so,Not at all,Not at all,Moderately so,Somewhat,Somewhat,Moderately so,Somewhat,Somewhat,Very much so,Not at all,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Very UNTRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Very TRUE of me,TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,UNTRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Moderately true,Moderately true,Hardly true,Moderately true,Exactly true,Moderately true,Moderately true,Exactly true,Exactly true,Moderately true,3,3,2,Strongly disagree,Strongly disagree,2,Strongly disagree,Strongly disagree,2,2,Strongly disagree,Strongly disagree,Strongly disagree,3,Strongly disagree,Strongly disagree,2,5,2,6,"Neither Agree nor Disagree
+4
+",6,3,2,2,3,5,5,2,"Neither Agree nor Disagree
+4
+",2,6,2,2,5,2,5,"Strongly Disagree
+1
+",2,3,2,"Neither Agree nor Disagree
+4
+",6,3,3,2,2,3,2,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+",6,5,2,2,3,5,2,3,"Neither Agree nor Disagree
+4
+",3,2,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,35,Not Hispanic or Latino,Female,,Asian,
+2022-07-28 08:49:22,2022-07-28 09:16:44,IP Address,152.16.191.121,100,1642,True,2022-07-28 09:16:45,R_25GulXLKdCU62qn,,,,,36.0229,-78.9464,anonymous,EN,118,RW,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,A Little,Extremely,A Little,Not At All,Moderately,A Little,A Little,Moderately,Not At All,A Little,Not At All,A Little,Not At All,A Little,Not At All,Not At All,A Little,A Little,Not At All,A Little,Not At All,Not At All,A Little,A Little,Quite a Lot,A Little,A Little,Not At All,Moderately,4 - very often,3 - fairly often,3 - fairly often,4 - very often,2 - sometimes,3 - fairly often,2 - sometimes,2 - sometimes,3 - fairly often,3 - fairly often,Moderately so,Moderately so,Moderately so,Not at all,Somewhat,Moderately so,Moderately so,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Moderately so,Not at all,Not at all,Somewhat,Very much so,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Moderately so,Moderately so,Not at all,Not at all,Not at all,Not at all,Somewhat,Somewhat,Moderately so,Not at all,Not at all,Somewhat,Not at all,Moderately so,Somewhat,Somewhat,Somewhat,Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Very TRUE of me,TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,TRUE of me,Very TRUE of me,TRUE of me,Very UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,TRUE of me,UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Very TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Very TRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,TRUE of me,Very TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very UNTRUE of me,Very TRUE of me,Exactly true,Moderately true,Not at all,Hardly true,Hardly true,Moderately true,Hardly true,Moderately true,Moderately true,Moderately true,Neither agree nor disagree,Neither agree nor disagree,5,3,Strongly disagree,Strongly disagree,6,2,Strongly disagree,3,Strongly agree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly agree,Strongly disagree,"Strongly Disagree
+1
+",2,"Strongly Disagree
+1
+",5,"Neither Agree nor Disagree
+4
+",5,5,3,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,5,"Strongly Disagree
+1
+","Strongly Agree
+7
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+","Strongly Agree
+7
+",2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,5,6,2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,3,5,"Strongly Disagree
+1
+",5,"Neither Agree nor Disagree
+4
+","Strongly Agree
+7
+","Neither Agree nor Disagree
+4
+",3,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,28,Not Hispanic or Latino,Male,,Asian,
+2022-07-28 13:11:52,2022-07-28 13:38:42,IP Address,152.16.191.121,100,1610,True,2022-07-28 13:38:42,R_2q9KpM0xmX7jSXK,,,,,36.0229,-78.9464,anonymous,EN,123,RW,A Little,Not At All,A Little,Not At All,A Little,Moderately,Not At All,Not At All,Moderately,A Little,Not At All,Not At All,Moderately,Not At All,Not At All,A Little,Not At All,A Little,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,A Little,Not At All,A Little,A Little,Not At All,A Little,A Little,Not At All,Not At All,A Little,Not At All,Not At All,A Little,A Little,Not At All,Not At All,2 - sometimes,2 - sometimes,3 - fairly often,2 - sometimes,2 - sometimes,2 - sometimes,2 - sometimes,2 - sometimes,2 - sometimes,2 - sometimes,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Not at all,Somewhat,Somewhat,Not at all,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Not at all,Somewhat,Somewhat,Somewhat,Moderately so,Somewhat,Not at all,Not at all,Somewhat,Somewhat,Somewhat,Moderately so,Somewhat,Not at all,Somewhat,Somewhat,Somewhat,Not at all,Somewhat,Somewhat,Somewhat,Somewhat,Moderately so,Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Very TRUE of me,TRUE of me,UNTRUE of me,UNTRUE of me,Very TRUE of me,TRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,TRUE of me,Very TRUE of me,TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Very UNTRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Very TRUE of me,UNTRUE of me,Very TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,2,2,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2,Strongly disagree,5,Strongly disagree,Strongly disagree,Strongly disagree,5,Strongly disagree,"Strongly Disagree
+1
+",6,3,"Neither Agree nor Disagree
+4
+",2,"Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,3,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,3,3,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,"Strongly Disagree
+1
+",3,"Strongly Disagree
+1
+",5,"Strongly Agree
+7
+","Strongly Disagree
+1
+",2,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,"Strongly Disagree
+1
+",6,"Strongly Disagree
+1
+",3,"Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,23,Not Hispanic or Latino,Female,,Asian,
+2022-08-17 07:18:20,2022-08-17 07:35:19,IP Address,152.16.191.121,100,1019,True,2022-08-17 07:35:19,R_33xrLFwBVxDC6We,,,,,35.9806,-78.8426,anonymous,EN,134,RW,Not At All,Not At All,A Little,A Little,Moderately,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,A Little,A Little,Quite a Lot,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,A Little,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,2 - sometimes,0 - never,3 - fairly often,3 - fairly often,1 - almost never,1 - almost never,3 - fairly often,3 - fairly often,1 - almost never,0 - never,Very much so,Moderately so,Not at all,Not at all,Moderately so,Not at all,Somewhat,Moderately so,Not at all,Moderately so,Very much so,Not at all,Not at all,Not at all,Moderately so,Moderately so,Somewhat,Not at all,Moderately so,Moderately so,Moderately so,Somewhat,Moderately so,Very much so,Not at all,Somewhat,Moderately so,Not at all,Somewhat,Somewhat,Somewhat,Not at all,Somewhat,Moderately so,Not at all,Somewhat,Somewhat,Not at all,Moderately so,Not at all,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,UNTRUE of me,UNTRUE of me,UNTRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,UNTRUE of me,UNTRUE of me,Very TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Very TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Exactly true,Moderately true,Moderately true,Moderately true,Moderately true,Exactly true,Moderately true,Moderately true,Exactly true,Exactly true,2,2,Strongly disagree,Strongly disagree,2,2,2,Strongly disagree,2,2,3,Strongly disagree,2,2,2,Strongly disagree,2,"Strongly Agree
+7
+",2,5,"Strongly Disagree
+1
+",2,5,2,3,2,"Strongly Disagree
+1
+",5,2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,2,"Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+",5,2,"Strongly Disagree
+1
+",2,2,6,3,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,3,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,5,2,6,5,2,3,"Strongly Disagree
+1
+",6,2,"Strongly Disagree
+1
+",3,5,5,"Strongly Disagree
+1
+",No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,21,Not Hispanic or Latino,Male,,Asian,
+2022-08-19 12:43:15,2022-08-19 13:06:19,IP Address,152.16.191.121,100,1384,True,2022-08-19 13:06:20,R_3EKoW9LZ26tjl3F,,,,,35.9806,-78.8426,anonymous,EN,122,RW,A Little,Not At All,A Little,Not At All,Quite a Lot,Moderately,Not At All,A Little,Quite a Lot,A Little,Not At All,Not At All,Moderately,Not At All,A Little,A Little,A Little,A Little,Quite a Lot,Not At All,Not At All,Not At All,A Little,Not At All,Extremely,Not At All,Moderately,Moderately,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Moderately,Not At All,A Little,Not At All,Moderately,Not At All,Not At All,2 - sometimes,2 - sometimes,3 - fairly often,4 - very often,3 - fairly often,1 - almost never,3 - fairly often,4 - very often,0 - never,2 - sometimes,Very much so,Moderately so,Not at all,Somewhat,Moderately so,Not at all,Not at all,Very much so,Not at all,Moderately so,Moderately so,Somewhat,Not at all,Not at all,Very much so,Very much so,Not at all,Not at all,Moderately so,Very much so,Moderately so,Moderately so,Somewhat,Not at all,Not at all,Somewhat,Not at all,Somewhat,Moderately so,Very much so,Not at all,Somewhat,Somewhat,Somewhat,Not at all,Moderately so,Moderately so,Not at all,Somewhat,Somewhat,Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Somewhat TRUE of me,Very TRUE of me,UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,UNTRUE of me,UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Hardly true,Hardly true,Moderately true,Moderately true,Exactly true,Moderately true,Hardly true,Moderately true,Hardly true,Moderately true,3,2,Strongly disagree,Strongly disagree,2,2,Strongly disagree,Strongly disagree,2,2,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,"Strongly Disagree
+1
+",6,3,5,"Strongly Disagree
+1
+",5,2,3,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",3,2,2,6,3,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",2,2,"Strongly Disagree
+1
+",2,"Neither Agree nor Disagree
+4
+","Strongly Agree
+7
+",3,2,"Neither Agree nor Disagree
+4
+",5,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,"Neither Agree nor Disagree
+4
+",5,5,"Strongly Disagree
+1
+",3,2,6,2,3,"Strongly Agree
+7
+",5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,29,Not Hispanic or Latino,Female,,Caucasian,
+2022-08-22 07:52:10,2022-08-22 08:17:33,IP Address,152.16.191.33,100,1523,True,2022-08-22 08:17:34,R_25ZcOlwUWUNOi24,,,,,35.9806,-78.8426,anonymous,EN,137,RW,Not At All,Not At All,A Little,Not At All,Not At All,A Little,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,A Little,Not At All,Moderately,Quite a Lot,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,A Little,Not At All,Not At All,A Little,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,2 - sometimes,1 - almost never,3 - fairly often,3 - fairly often,0 - never,0 - never,1 - almost never,3 - fairly often,0 - never,0 - never,Very much so,Very much so,Not at all,Not at all,Very much so,Not at all,Not at all,Moderately so,Not at all,Very much so,Very much so,Not at all,Not at all,Not at all,Very much so,Moderately so,Moderately so,Not at all,Very much so,Moderately so,Moderately so,Not at all,Moderately so,Moderately so,Somewhat,Somewhat,Very much so,Not at all,Not at all,Moderately so,Not at all,Not at all,Very much so,Very much so,Not at all,Moderately so,Not at all,Not at all,Very much so,Not at all,Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Most or all of the time (5-7 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,TRUE of me,UNTRUE of me,Very TRUE of me,Very UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,TRUE of me,TRUE of me,Very TRUE of me,TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,TRUE of me,UNTRUE of me,TRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Very TRUE of me,TRUE of me,TRUE of me,Moderately true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Strongly disagree,2,Strongly disagree,Strongly disagree,2,2,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2,5,"Strongly Disagree
+1
+","Strongly Agree
+7
+","Neither Agree nor Disagree
+4
+",3,2,2,"Neither Agree nor Disagree
+4
+",2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+",2,5,"Strongly Disagree
+1
+",3,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,5,2,2,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,2,"Neither Agree nor Disagree
+4
+",3,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,5,3,"Neither Agree nor Disagree
+4
+",No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,27,Not Hispanic or Latino,Female,,Caucasian,
+2022-08-22 11:52:54,2022-08-22 12:28:54,IP Address,152.16.191.33,100,2160,True,2022-08-22 12:28:55,R_2flDGb7I1sFJzsN,,,,,35.9806,-78.8426,anonymous,EN,132,RW,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,2 - sometimes,1 - almost never,1 - almost never,3 - fairly often,1 - almost never,1 - almost never,3 - fairly often,3 - fairly often,1 - almost never,1 - almost never,Very much so,Moderately so,Not at all,Not at all,Very much so,Not at all,Not at all,Moderately so,Not at all,Moderately so,Very much so,Somewhat,Not at all,Not at all,Moderately so,Very much so,Not at all,Not at all,Moderately so,Moderately so,Very much so,Not at all,Moderately so,Somewhat,Not at all,Moderately so,Somewhat,Not at all,Somewhat,Moderately so,Somewhat,Somewhat,Moderately so,Somewhat,Not at all,Moderately so,Somewhat,Somewhat,Moderately so,Somewhat,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Very TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,TRUE of me,UNTRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,TRUE of me,Very TRUE of me,UNTRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Very TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Moderately true,Moderately true,Moderately true,Hardly true,Hardly true,Moderately true,Moderately true,Hardly true,Moderately true,Moderately true,2,Strongly disagree,2,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,2,2,2,Strongly disagree,"Strongly Agree
+7
+",6,2,2,"Neither Agree nor Disagree
+4
+",5,2,6,6,2,"Strongly Disagree
+1
+",6,2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+",3,"Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",3,2,"Neither Agree nor Disagree
+4
+",2,6,2,2,2,3,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",3,6,2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,"Neither Agree nor Disagree
+4
+","Strongly Agree
+7
+",5,2,6,"Neither Agree nor Disagree
+4
+",Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,26,Not Hispanic or Latino,Male,,Asian,
+2022-08-24 13:49:42,2022-08-24 14:21:01,IP Address,152.16.191.121,100,1878,True,2022-08-24 14:21:02,R_1GAYicIelXCV8UA,,,,,36.0229,-78.9464,anonymous,EN,138,RW,A Little,Not At All,Not At All,Not At All,A Little,Quite a Lot,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,Moderately,Not At All,A Little,A Little,Not At All,Not At All,Extremely,Not At All,Not At All,Not At All,A Little,Not At All,Quite a Lot,Not At All,Not At All,A Little,Not At All,Not At All,Moderately,Not At All,Not At All,A Little,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,1 - almost never,1 - almost never,2 - sometimes,4 - very often,0 - never,0 - never,4 - very often,4 - very often,1 - almost never,0 - never,Moderately so,Moderately so,Somewhat,Not at all,Moderately so,Not at all,Not at all,Very much so,Not at all,Moderately so,Very much so,Somewhat,Not at all,Not at all,Moderately so,Very much so,Not at all,Not at all,Moderately so,Moderately so,Moderately so,Not at all,Very much so,Not at all,Not at all,Very much so,Very much so,Not at all,Not at all,Very much so,Not at all,Not at all,Very much so,Very much so,Not at all,Very much so,Not at all,Somewhat,Very much so,Not at all,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Very TRUE of me,TRUE of me,TRUE of me,TRUE of me,Very UNTRUE of me,UNTRUE of me,Very TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,UNTRUE of me,Very UNTRUE of me,Very TRUE of me,Very TRUE of me,TRUE of me,UNTRUE of me,Very UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,UNTRUE of me,Very UNTRUE of me,Very UNTRUE of me,Very UNTRUE of me,UNTRUE of me,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Moderately true,Exactly true,Exactly true,Strongly disagree,2,6,Strongly disagree,Strongly disagree,2,5,Strongly disagree,6,2,5,Strongly disagree,Strongly disagree,2,3,Strongly disagree,5,6,"Strongly Disagree
+1
+",2,2,5,"Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+",2,"Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,5,"Strongly Disagree
+1
+",2,5,"Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+",2,"Strongly Disagree
+1
+",3,2,5,2,6,5,2,3,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,6,"Strongly Agree
+7
+",5,"Strongly Disagree
+1
+",2,2,6,"Strongly Disagree
+1
+",5,3,5,5,5,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,25,Not Hispanic or Latino,Male,,Asian,
+2022-09-07 13:48:27,2022-09-07 14:07:42,IP Address,136.226.48.254,100,1155,True,2022-09-07 14:07:42,R_3ET1hQqaVI4KdxX,,,,,38.93,-77.35,anonymous,EN,143,RW,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,A Little,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,1 - almost never,1 - almost never,2 - sometimes,3 - fairly often,3 - fairly often,3 - fairly often,3 - fairly often,2 - sometimes,0 - never,1 - almost never,Moderately so,Somewhat,Not at all,Not at all,Not at all,Not at all,Not at all,Somewhat,Not at all,Somewhat,Somewhat,Not at all,Not at all,Not at all,Somewhat,Somewhat,Not at all,Not at all,Somewhat,Moderately so,Moderately so,Somewhat,Moderately so,Somewhat,Not at all,Somewhat,Somewhat,Not at all,Not at all,Moderately so,Not at all,Not at all,Somewhat,Somewhat,Not at all,Somewhat,Not at all,Not at all,Somewhat,Not at all,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),TRUE of me,TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Moderately true,Moderately true,Moderately true,Moderately true,Exactly true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,2,3,3,2,3,2,2,2,2,2,3,2,2,2,3,2,5,5,3,3,2,5,6,6,5,3,2,5,6,2,"Neither Agree nor Disagree
+4
+",6,6,3,5,"Strongly Disagree
+1
+",5,2,3,2,3,2,3,3,5,5,6,3,2,2,2,6,5,5,2,6,2,5,2,2,2,2,6,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,19,Not Hispanic or Latino,Female,,Asian,
+2022-09-19 13:13:19,2022-09-19 13:39:35,IP Address,136.226.52.254,100,1576,True,2022-09-19 13:39:36,R_ZKVeKhDDMyRD64p,,,,,38.7741,-77.2385,anonymous,EN,126,RW,A Little,Not At All,Not At All,Not At All,A Little,A Little,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,A Little,Not At All,Quite a Lot,Not At All,Not At All,A Little,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,Not At All,A Little,Moderately,Moderately,Not At All,Not At All,2 - sometimes,2 - sometimes,2 - sometimes,3 - fairly often,1 - almost never,1 - almost never,3 - fairly often,3 - fairly often,1 - almost never,0 - never,Very much so,Very much so,Not at all,Not at all,Very much so,Not at all,Not at all,Very much so,Not at all,Very much so,Moderately so,Not at all,Not at all,Not at all,Very much so,Very much so,Not at all,Not at all,Very much so,Very much so,Very much so,Not at all,Very much so,Not at all,Not at all,Very much so,Very much so,Not at all,Somewhat,Not at all,Not at all,Not at all,Very much so,Moderately so,Somewhat,Very much so,Not at all,Not at all,Very much so,Somewhat,Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Very TRUE of me,Very TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,UNTRUE of me,Very TRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,Very TRUE of me,UNTRUE of me,Somewhat TRUE of me,Very UNTRUE of me,UNTRUE of me,Very TRUE of me,Very TRUE of me,TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Very UNTRUE of me,TRUE of me,Very TRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,TRUE of me,Very TRUE of me,TRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Very UNTRUE of me,Exactly true,Moderately true,Moderately true,Exactly true,Exactly true,Exactly true,Moderately true,Exactly true,Exactly true,Exactly true,Strongly disagree,2,2,Strongly disagree,2,Strongly disagree,2,2,Strongly disagree,2,Neither agree nor disagree,Strongly disagree,Strongly disagree,Strongly disagree,3,Neither agree nor disagree,"Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+",3,"Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+",2,2,2,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+",2,2,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",2,2,2,"Strongly Disagree
+1
+",5,"Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,6,"Strongly Disagree
+1
+",6,"Neither Agree nor Disagree
+4
+",2,2,"Strongly Disagree
+1
+",5,2,2,"Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,26,Not Hispanic or Latino,Female,,Caucasian,
+2022-09-21 12:01:46,2022-09-21 12:31:18,IP Address,136.226.49.31,100,1772,True,2022-09-21 12:31:18,R_3IR9OzWDoXYHJer,,,,,39.0157,-77.0085,anonymous,EN,145,RW,A Little,Not At All,A Little,Not At All,Not At All,Moderately,A Little,Not At All,Moderately,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,A Little,A Little,A Little,Quite a Lot,Not At All,Not At All,Not At All,A Little,Not At All,Quite a Lot,Not At All,A Little,A Little,Not At All,Not At All,Moderately,A Little,Not At All,Moderately,Not At All,A Little,Moderately,A Little,Not At All,Not At All,2 - sometimes,2 - sometimes,2 - sometimes,3 - fairly often,2 - sometimes,2 - sometimes,3 - fairly often,3 - fairly often,2 - sometimes,1 - almost never,Moderately so,Moderately so,Somewhat,Somewhat,Moderately so,Somewhat,Somewhat,Moderately so,Somewhat,Moderately so,Very much so,Somewhat,Not at all,Somewhat,Moderately so,Somewhat,Somewhat,Somewhat,Moderately so,Moderately so,Moderately so,Somewhat,Moderately so,Not at all,Not at all,Moderately so,Moderately so,Not at all,Somewhat,Moderately so,Not at all,Not at all,Moderately so,Moderately so,Somewhat,Moderately so,Somewhat,Somewhat,Moderately so,Not at all,Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Very TRUE of me,TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,TRUE of me,TRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat TRUE of me,TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Exactly true,Moderately true,Moderately true,Exactly true,Moderately true,Exactly true,Exactly true,Moderately true,Moderately true,Exactly true,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,5,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,3,6,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Agree
+7
+",2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,6,2,2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,2,"Strongly Agree
+7
+",6,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+",2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,28,Not Hispanic or Latino,Male,,Asian,
+2022-09-24 08:09:42,2022-09-24 08:35:49,IP Address,136.226.52.254,100,1566,True,2022-09-24 08:35:49,R_3j3fQPnwG1cUvJz,,,,,38.8898,-77.0137,anonymous,EN,142,RW,A Little,Not At All,A Little,Not At All,Moderately,Moderately,Not At All,A Little,Moderately,Not At All,Not At All,Not At All,Moderately,Not At All,A Little,Not At All,A Little,Moderately,Moderately,Not At All,Not At All,Not At All,A Little,Not At All,Moderately,Not At All,Moderately,Not At All,Not At All,A Little,Moderately,Not At All,Not At All,Moderately,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,2 - sometimes,2 - sometimes,2 - sometimes,2 - sometimes,2 - sometimes,2 - sometimes,2 - sometimes,2 - sometimes,1 - almost never,3 - fairly often,Moderately so,Very much so,Moderately so,Somewhat,Somewhat,Not at all,Not at all,Somewhat,Not at all,Moderately so,Moderately so,Not at all,Not at all,Somewhat,Moderately so,Moderately so,Not at all,Not at all,Moderately so,Moderately so,Moderately so,Not at all,Somewhat,Moderately so,Somewhat,Somewhat,Somewhat,Moderately so,Not at all,Somewhat,Moderately so,Moderately so,Somewhat,Not at all,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Moderately so,Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),TRUE of me,Very TRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Moderately true,Moderately true,Moderately true,Hardly true,Moderately true,Exactly true,Hardly true,Moderately true,Moderately true,Moderately true,2,3,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2,Strongly disagree,3,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2,"Strongly Agree
+7
+","Neither Agree nor Disagree
+4
+",6,2,6,6,5,3,3,"Strongly Disagree
+1
+",5,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,5,2,6,"Strongly Disagree
+1
+","Strongly Agree
+7
+",3,"Strongly Disagree
+1
+",3,"Strongly Disagree
+1
+",5,6,5,3,5,"Neither Agree nor Disagree
+4
+",2,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",6,5,"Strongly Agree
+7
+",5,3,3,"Strongly Disagree
+1
+",5,2,3,5,6,6,"Neither Agree nor Disagree
+4
+",No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,20,Not Hispanic or Latino,Female,,Asian,
+2022-09-26 07:29:27,2022-09-26 07:51:23,IP Address,136.226.53.13,100,1315,True,2022-09-26 07:51:23,R_10qIhdZsSxNgR8g,,,,,38.9091,-77.0203,anonymous,EN,155,RW,A Little,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,2 - sometimes,2 - sometimes,2 - sometimes,3 - fairly often,1 - almost never,1 - almost never,3 - fairly often,3 - fairly often,2 - sometimes,1 - almost never,Moderately so,Moderately so,Not at all,Somewhat,Moderately so,Not at all,Not at all,Moderately so,Not at all,Moderately so,Somewhat,Not at all,Not at all,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Moderately so,Somewhat,Moderately so,Somewhat,Not at all,Somewhat,Somewhat,Somewhat,Moderately so,Moderately so,Not at all,Not at all,Somewhat,Moderately so,Not at all,Moderately so,Somewhat,Somewhat,Very much so,Very much so,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Somewhat TRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat UNTRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,TRUE of me,TRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Moderately true,Moderately true,Moderately true,Moderately true,Exactly true,Exactly true,Exactly true,Exactly true,Moderately true,Moderately true,3,Neither agree nor disagree,3,3,3,3,Neither agree nor disagree,Neither agree nor disagree,3,Neither agree nor disagree,3,3,3,Neither agree nor disagree,3,3,3,3,"Neither Agree nor Disagree
+4
+",3,3,3,3,3,3,3,3,3,3,3,3,5,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,3,3,3,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,21,Not Hispanic or Latino,Male,,Asian,
+2022-09-27 07:16:24,2022-09-27 07:46:09,IP Address,136.226.52.255,100,1784,True,2022-09-27 07:46:10,R_2rC723Ts4loXwvS,,,,,38.8078,-77.0523,anonymous,EN,146,RW,A Little,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,A Little,Not At All,Moderately,Not At All,Not At All,A Little,Not At All,Not At All,A Little,Not At All,A Little,Moderately,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,2 - sometimes,0 - never,1 - almost never,3 - fairly often,1 - almost never,1 - almost never,3 - fairly often,3 - fairly often,1 - almost never,1 - almost never,Very much so,Very much so,Not at all,Somewhat,Moderately so,Not at all,Not at all,Moderately so,Not at all,Very much so,Moderately so,Somewhat,Not at all,Not at all,Moderately so,Somewhat,Not at all,Not at all,Moderately so,Moderately so,Moderately so,Not at all,Somewhat,Not at all,Not at all,Somewhat,Moderately so,Not at all,Somewhat,Moderately so,Somewhat,Somewhat,Moderately so,Somewhat,Not at all,Somewhat,Not at all,Not at all,Moderately so,Not at all,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Very TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,Exactly true,Hardly true,Moderately true,Hardly true,Hardly true,Moderately true,Moderately true,Exactly true,Exactly true,Hardly true,Strongly disagree,3,2,2,Strongly disagree,2,2,2,Strongly disagree,2,5,2,3,5,2,Strongly disagree,5,6,3,5,3,6,6,3,3,"Strongly Disagree
+1
+",2,3,2,5,"Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+",2,5,2,2,"Strongly Disagree
+1
+",2,6,5,2,6,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+",3,6,"Neither Agree nor Disagree
+4
+",6,3,"Strongly Disagree
+1
+",3,3,6,"Strongly Disagree
+1
+",3,"Neither Agree nor Disagree
+4
+",5,6,2,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,27,Not Hispanic or Latino,Female,,Asian,
+2022-09-28 13:06:36,2022-09-28 13:32:08,IP Address,136.226.53.28,100,1532,True,2022-09-28 13:32:08,R_85OjnqQAGTb4NTX,,,,,39.0157,-77.0085,anonymous,EN,145,RW,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Moderately,A Little,A Little,Quite a Lot,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,A Little,A Little,Quite a Lot,Not At All,Not At All,Not At All,A Little,Not At All,Quite a Lot,Not At All,A Little,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,A Little,Not At All,Not At All,Moderately,A Little,Not At All,Not At All,2 - sometimes,2 - sometimes,2 - sometimes,4 - very often,2 - sometimes,2 - sometimes,3 - fairly often,2 - sometimes,2 - sometimes,1 - almost never,Moderately so,Moderately so,Somewhat,Somewhat,Moderately so,Somewhat,Somewhat,Moderately so,Not at all,Moderately so,Moderately so,Somewhat,Not at all,Somewhat,Moderately so,Moderately so,Somewhat,Somewhat,Moderately so,Moderately so,Moderately so,Somewhat,Moderately so,Not at all,Not at all,Somewhat,Moderately so,Not at all,Somewhat,Moderately so,Somewhat,Not at all,Moderately so,Moderately so,Not at all,Moderately so,Somewhat,Somewhat,Moderately so,Somewhat,Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Very TRUE of me,TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Exactly true,Moderately true,Moderately true,Exactly true,Moderately true,Exactly true,Moderately true,Moderately true,Exactly true,Exactly true,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,28,Not Hispanic or Latino,Male,,Asian,
+2022-09-29 14:22:01,2022-09-29 15:03:15,IP Address,136.226.53.18,100,2474,True,2022-09-29 15:03:16,R_3qsan8ZZPYva926,,,,,38.9011,-77.0452,anonymous,EN,153,RW,Not At All,Not At All,A Little,A Little,A Little,A Little,Not At All,Moderately,Moderately,Quite a Lot,Not At All,A Little,Moderately,Not At All,Not At All,A Little,Moderately,Moderately,A Little,Not At All,Quite a Lot,Not At All,Moderately,A Little,A Little,A Little,A Little,Moderately,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,A Little,A Little,Not At All,Moderately,A Little,A Little,2 - sometimes,1 - almost never,4 - very often,2 - sometimes,3 - fairly often,3 - fairly often,3 - fairly often,2 - sometimes,1 - almost never,1 - almost never,Moderately so,Moderately so,Somewhat,Moderately so,Somewhat,Moderately so,Very much so,Not at all,Very much so,Somewhat,Not at all,Moderately so,Not at all,Not at all,Somewhat,Not at all,Moderately so,Not at all,Somewhat,Somewhat,Somewhat,Moderately so,Somewhat,Very much so,Moderately so,Not at all,Somewhat,Somewhat,Very much so,Somewhat,Not at all,Somewhat,Moderately so,Somewhat,Somewhat,Somewhat,Very much so,Very much so,Somewhat,Very much so,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Very TRUE of me,TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,Very TRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,TRUE of me,UNTRUE of me,UNTRUE of me,TRUE of me,Very TRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,TRUE of me,TRUE of me,UNTRUE of me,UNTRUE of me,Moderately true,Moderately true,Moderately true,Hardly true,Hardly true,Moderately true,Hardly true,Hardly true,Moderately true,Moderately true,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,6,6,Strongly disagree,Strongly disagree,6,6,Strongly disagree,Strongly disagree,5,6,Strongly disagree,Strongly disagree,"Neither Agree nor Disagree
+4
+",6,6,6,6,5,"Neither Agree nor Disagree
+4
+",6,2,6,2,6,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+",3,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,2,"Strongly Disagree
+1
+",2,"Strongly Disagree
+1
+",3,"Strongly Agree
+7
+","Strongly Disagree
+1
+",3,2,5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,6,2,6,2,2,"Neither Agree nor Disagree
+4
+",3,6,2,2,"Neither Agree nor Disagree
+4
+",6,2,"Neither Agree nor Disagree
+4
+",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,21,Not Hispanic or Latino,Male,,Asian,
+2022-10-17 12:47:55,2022-10-17 13:04:41,IP Address,136.226.53.14,100,1005,True,2022-10-17 13:04:41,R_1reKajp3Pp0NqVD,,,,,35.8964,-78.7115,anonymous,EN,161,RW,Not At All,Not At All,A Little,Not At All,Moderately,Moderately,Not At All,Not At All,Moderately,A Little,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,A Little,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Moderately,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,2 - sometimes,1 - almost never,2 - sometimes,3 - fairly often,0 - never,0 - never,2 - sometimes,3 - fairly often,2 - sometimes,0 - never,Moderately so,Moderately so,Somewhat,Not at all,Moderately so,Not at all,Not at all,Moderately so,Not at all,Somewhat,Moderately so,Not at all,Not at all,Not at all,Moderately so,Moderately so,Not at all,Not at all,Moderately so,Moderately so,Moderately so,Moderately so,Moderately so,Moderately so,Not at all,Somewhat,Somewhat,Not at all,Not at all,Moderately so,Somewhat,Somewhat,Moderately so,Moderately so,Not at all,Moderately so,Very much so,Somewhat,Somewhat,Somewhat,Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Very TRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,TRUE of me,TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Very TRUE of me,TRUE of me,TRUE of me,TRUE of me,TRUE of me,UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Moderately true,Exactly true,Moderately true,Moderately true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,3,6,2,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,3,Strongly disagree,Strongly agree,Strongly disagree,2,Strongly disagree,6,Strongly disagree,2,6,2,6,"Neither Agree nor Disagree
+4
+",5,2,5,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",2,5,2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+",3,2,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",5,3,2,2,3,3,6,2,2,"Neither Agree nor Disagree
+4
+",2,2,"Strongly Disagree
+1
+",2,5,3,6,2,3,3,2,5,2,2,6,6,2,"Neither Agree nor Disagree
+4
+",Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,27,Not Hispanic or Latino,Male,,Asian,
+2022-10-25 09:27:28,2022-10-25 10:07:04,IP Address,136.226.49.11,100,2375,True,2022-10-25 10:07:04,R_1oFvuN5WeOZlsTy,,,,,38.9208,-77.036,anonymous,EN,165,RW,A Little,Not At All,Quite a Lot,A Little,Not At All,Not At All,A Little,Moderately,Moderately,A Little,Moderately,Not At All,A Little,A Little,Quite a Lot,Moderately,Quite a Lot,Quite a Lot,A Little,Quite a Lot,Not At All,Not At All,Not At All,Moderately,Quite a Lot,Not At All,Quite a Lot,A Little,Quite a Lot,Quite a Lot,Not At All,A Little,A Little,Not At All,A Little,Moderately,A Little,A Little,Moderately,Not At All,3 - fairly often,4 - very often,3 - fairly often,2 - sometimes,4 - very often,4 - very often,1 - almost never,1 - almost never,4 - very often,3 - fairly often,Somewhat,Somewhat,Moderately so,Very much so,Somewhat,Very much so,Moderately so,Not at all,Somewhat,Somewhat,Moderately so,Somewhat,Somewhat,Very much so,Not at all,Not at all,Very much so,Moderately so,Somewhat,Not at all,Not at all,Moderately so,Not at all,Very much so,Not at all,Somewhat,Not at all,Not at all,Very much so,Somewhat,Very much so,Not at all,Somewhat,Not at all,Moderately so,Not at all,Very much so,Moderately so,Somewhat,Very much so,Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Very TRUE of me,Very TRUE of me,Very UNTRUE of me,TRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,TRUE of me,Very UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,TRUE of me,TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,TRUE of me,Very TRUE of me,Somewhat TRUE of me,TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Exactly true,Hardly true,Not at all,Moderately true,Moderately true,Exactly true,Hardly true,Exactly true,Exactly true,Hardly true,2,6,2,2,5,2,Strongly disagree,2,5,5,6,2,2,5,3,Strongly disagree,"Strongly Agree
+7
+","Strongly Agree
+7
+",3,6,"Strongly Disagree
+1
+",5,3,5,2,5,2,"Neither Agree nor Disagree
+4
+",3,3,2,"Strongly Agree
+7
+",5,3,2,"Strongly Disagree
+1
+",5,2,"Strongly Disagree
+1
+",3,2,6,3,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",3,"Strongly Disagree
+1
+",6,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,2,"Strongly Agree
+7
+","Strongly Disagree
+1
+",2,"Strongly Agree
+7
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,5,5,6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,25,Not Hispanic or Latino,Male,,Asian,
+2022-10-26 11:50:51,2022-10-26 12:15:06,IP Address,136.226.49.19,100,1454,True,2022-10-26 12:15:06,R_3FXqyckVIbS5gQ3,,,,,36.0229,-78.9464,anonymous,EN,167,RW,Not At All,Not At All,A Little,Not At All,Quite a Lot,Moderately,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,A Little,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,A Little,Not At All,Moderately,A Little,A Little,Not At All,Not At All,2 - sometimes,1 - almost never,2 - sometimes,3 - fairly often,1 - almost never,1 - almost never,3 - fairly often,3 - fairly often,1 - almost never,1 - almost never,Moderately so,Very much so,Not at all,Not at all,Very much so,Not at all,Not at all,Moderately so,Not at all,Moderately so,Moderately so,Not at all,Not at all,Not at all,Moderately so,Very much so,Not at all,Not at all,Moderately so,Moderately so,Very much so,Somewhat,Very much so,Somewhat,Not at all,Moderately so,Moderately so,Somewhat,Somewhat,Very much so,Not at all,Not at all,Moderately so,Moderately so,Not at all,Moderately so,Not at all,Not at all,Moderately so,Not at all,Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Exactly true,Hardly true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Strongly disagree,3,3,2,2,2,3,Strongly disagree,3,3,5,Strongly disagree,2,Neither agree nor disagree,5,Strongly disagree,3,3,3,6,5,"Strongly Agree
+7
+",5,3,5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,6,2,6,"Strongly Disagree
+1
+",6,2,2,2,"Strongly Disagree
+1
+",6,3,2,3,6,3,6,"Strongly Disagree
+1
+",2,6,2,"Strongly Agree
+7
+",2,2,2,"Neither Agree nor Disagree
+4
+",6,2,3,5,6,5,"Neither Agree nor Disagree
+4
+",No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,19,Hispanic or Latino,Male,,Caucasian,
+2022-10-27 13:50:42,2022-10-27 14:16:15,IP Address,136.226.53.0,100,1532,True,2022-10-27 14:16:15,R_2xRdS5hwMTnlgYo,,,,,35.9806,-78.8426,anonymous,EN,164,RW,A Little,Not At All,A Little,Not At All,A Little,Quite a Lot,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,A Little,Not At All,A Little,Moderately,Not At All,Not At All,Not At All,A Little,Not At All,Quite a Lot,Not At All,A Little,A Little,Not At All,Not At All,Moderately,Not At All,Not At All,Moderately,Not At All,A Little,A Little,Quite a Lot,A Little,Not At All,2 - sometimes,1 - almost never,3 - fairly often,4 - very often,2 - sometimes,2 - sometimes,3 - fairly often,3 - fairly often,2 - sometimes,1 - almost never,Very much so,Very much so,Not at all,Not at all,Moderately so,Not at all,Not at all,Very much so,Somewhat,Very much so,Very much so,Somewhat,Not at all,Moderately so,Moderately so,Very much so,Not at all,Not at all,Moderately so,Very much so,Very much so,Somewhat,Very much so,Not at all,Not at all,Moderately so,Very much so,Not at all,Somewhat,Very much so,Not at all,Not at all,Very much so,Moderately so,Somewhat,Very much so,Moderately so,Not at all,Very much so,Somewhat,Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Somewhat TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Very TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Exactly true,Hardly true,Exactly true,Moderately true,Moderately true,Exactly true,Moderately true,Moderately true,Moderately true,Moderately true,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,"Strongly Disagree
+1
+",6,2,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",5,2,"Neither Agree nor Disagree
+4
+",5,3,"Strongly Disagree
+1
+",5,2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+",2,"Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+",3,"Strongly Disagree
+1
+",2,2,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Agree
+7
+",2,"Strongly Disagree
+1
+",5,2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,"Neither Agree nor Disagree
+4
+",6,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",2,"Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,19,Not Hispanic or Latino,Female,,Caucasian,
+2022-11-02 12:49:53,2022-11-02 13:21:41,IP Address,136.226.48.254,100,1908,True,2022-11-02 13:21:41,R_3CNwQkViZIsohjG,,,,,35.9806,-78.8426,anonymous,EN,172,RW,A Little,Not At All,Not At All,Not At All,Moderately,Quite a Lot,A Little,Not At All,Extremely,Moderately,A Little,Not At All,Extremely,Not At All,Not At All,Not At All,A Little,Moderately,Extremely,A Little,A Little,Not At All,Not At All,Not At All,Extremely,Not At All,A Little,Not At All,Not At All,Not At All,Quite a Lot,A Little,Not At All,A Little,Not At All,Not At All,A Little,Moderately,Not At All,Not At All,0 - never,2 - sometimes,2 - sometimes,4 - very often,1 - almost never,1 - almost never,3 - fairly often,3 - fairly often,2 - sometimes,1 - almost never,Very much so,Moderately so,Somewhat,Somewhat,Moderately so,Not at all,Moderately so,Very much so,Not at all,Moderately so,Moderately so,Not at all,Not at all,Not at all,Moderately so,Moderately so,Somewhat,Somewhat,Moderately so,Very much so,Moderately so,Somewhat,Very much so,Not at all,Not at all,Somewhat,Moderately so,Not at all,Somewhat,Moderately so,Somewhat,Not at all,Moderately so,Very much so,Not at all,Somewhat,Somewhat,Somewhat,Moderately so,Not at all,Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,TRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Very TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Strongly disagree,6,6,3,Strongly disagree,2,2,2,2,2,2,2,2,2,2,2,2,2,"Strongly Disagree
+1
+",5,5,6,"Strongly Agree
+7
+",2,"Neither Agree nor Disagree
+4
+",3,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",2,6,"Strongly Disagree
+1
+",2,6,2,6,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,2,2,2,3,"Strongly Agree
+7
+",3,2,5,"Strongly Disagree
+1
+",2,5,3,"Strongly Agree
+7
+",2,2,3,2,6,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+",6,"Neither Agree nor Disagree
+4
+",Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,22,Not Hispanic or Latino,Male,,Asian,
+2022-11-03 12:14:28,2022-11-03 12:41:20,IP Address,136.226.49.18,100,1612,True,2022-11-03 12:41:21,R_2dWqKW1gUxZWnxX,,,,,35.9806,-78.8426,anonymous,EN,169,RW,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Quite a Lot,A Little,Not At All,Moderately,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,A Little,Moderately,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,A Little,A Little,Not At All,2 - sometimes,2 - sometimes,2 - sometimes,3 - fairly often,2 - sometimes,3 - fairly often,3 - fairly often,2 - sometimes,2 - sometimes,2 - sometimes,Moderately so,Moderately so,Not at all,Not at all,Somewhat,Not at all,Not at all,Moderately so,Not at all,Moderately so,Moderately so,Not at all,Not at all,Not at all,Moderately so,Moderately so,Not at all,Not at all,Moderately so,Moderately so,Moderately so,Somewhat,Moderately so,Moderately so,Somewhat,Moderately so,Moderately so,Moderately so,Somewhat,Moderately so,Somewhat,Moderately so,Moderately so,Moderately so,Somewhat,Moderately so,Moderately so,Moderately so,Moderately so,Moderately so,Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),TRUE of me,TRUE of me,Very TRUE of me,UNTRUE of me,Very UNTRUE of me,TRUE of me,Very TRUE of me,TRUE of me,UNTRUE of me,UNTRUE of me,UNTRUE of me,Very UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,TRUE of me,Very TRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,UNTRUE of me,UNTRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,UNTRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Moderately true,Moderately true,Moderately true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Moderately true,Moderately true,2,6,3,Strongly disagree,3,Strongly disagree,3,Strongly disagree,Strongly disagree,3,3,Strongly disagree,3,3,2,Strongly disagree,6,"Strongly Agree
+7
+",5,"Strongly Agree
+7
+","Strongly Agree
+7
+",2,6,6,6,6,6,"Strongly Agree
+7
+",3,2,2,6,6,3,"Strongly Agree
+7
+",2,2,2,2,"Strongly Disagree
+1
+",2,2,"Strongly Agree
+7
+",6,"Strongly Agree
+7
+","Strongly Agree
+7
+",3,6,"Strongly Disagree
+1
+",2,6,"Neither Agree nor Disagree
+4
+",6,6,6,6,2,2,2,2,3,2,3,6,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,25,Not Hispanic or Latino,Male,,Asian,
+2022-11-14 13:16:35,2022-11-14 13:47:01,IP Address,136.226.53.29,100,1825,True,2022-11-14 13:47:01,R_2ceamI1CnQOIPwa,,,,,38.9034,-76.9882,anonymous,EN,175,RW,A Little,Not At All,A Little,A Little,A Little,A Little,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,A Little,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,A Little,Not At All,Not At All,A Little,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,3 - fairly often,3 - fairly often,4 - very often,4 - very often,3 - fairly often,1 - almost never,3 - fairly often,3 - fairly often,2 - sometimes,1 - almost never,Somewhat,Somewhat,Somewhat,Not at all,Somewhat,Not at all,Not at all,Somewhat,Not at all,Moderately so,Moderately so,Not at all,Not at all,Not at all,Moderately so,Moderately so,Not at all,Not at all,Moderately so,Moderately so,Somewhat,Somewhat,Moderately so,Very much so,Somewhat,Somewhat,Somewhat,Not at all,Very much so,Somewhat,Somewhat,Somewhat,Moderately so,Somewhat,Not at all,Somewhat,Somewhat,Moderately so,Somewhat,Moderately so,Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,Very UNTRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Very TRUE of me,Somewhat TRUE of me,TRUE of me,Moderately true,Hardly true,Moderately true,Hardly true,Moderately true,Moderately true,Not at all,Moderately true,Moderately true,Moderately true,3,5,Neither agree nor disagree,Strongly disagree,3,3,Neither agree nor disagree,5,5,Neither agree nor disagree,3,5,Strongly disagree,2,5,3,3,6,5,"Neither Agree nor Disagree
+4
+",2,5,5,5,5,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Agree
+7
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+",5,"Neither Agree nor Disagree
+4
+",3,3,3,5,3,"Neither Agree nor Disagree
+4
+",3,"Strongly Disagree
+1
+",3,5,"Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+",6,"Neither Agree nor Disagree
+4
+",2,2,5,5,5,2,3,"Strongly Agree
+7
+",3,3,3,"Neither Agree nor Disagree
+4
+",3,3,5,3,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,22,Not Hispanic or Latino,Female,,Asian,
+2022-12-01 13:38:55,2022-12-01 14:06:41,IP Address,136.226.49.18,100,1666,True,2022-12-01 14:06:41,R_1Lqd1mT8mqH8hs4,,,,,38.9208,-77.036,anonymous,EN,179,RW,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,A Little,A Little,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,2 - sometimes,2 - sometimes,2 - sometimes,3 - fairly often,0 - never,0 - never,2 - sometimes,3 - fairly often,2 - sometimes,1 - almost never,Somewhat,Somewhat,Not at all,Not at all,Somewhat,Not at all,Not at all,Somewhat,Not at all,Somewhat,Moderately so,Somewhat,Not at all,Not at all,Somewhat,Somewhat,Not at all,Not at all,Somewhat,Moderately so,Moderately so,Somewhat,Moderately so,Not at all,Not at all,Somewhat,Moderately so,Somewhat,Somewhat,Somewhat,Not at all,Not at all,Somewhat,Somewhat,Not at all,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),TRUE of me,TRUE of me,UNTRUE of me,UNTRUE of me,UNTRUE of me,UNTRUE of me,TRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,TRUE of me,TRUE of me,UNTRUE of me,TRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Exactly true,Moderately true,Moderately true,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,3,Strongly disagree,"Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Agree
+7
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Agree
+7
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+",5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,26,Not Hispanic or Latino,Female,,Black or African-American,
+2022-12-02 12:18:03,2022-12-02 12:39:44,IP Address,136.226.53.22,100,1300,True,2022-12-02 12:39:44,R_2CkdWqXdS58Pgd9,,,,,39.0157,-77.0085,anonymous,EN,184,RW,Not At All,Not At All,A Little,A Little,Moderately,Moderately,Not At All,A Little,Extremely,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Moderately,A Little,Not At All,A Little,Quite a Lot,Not At All,A Little,Moderately,Not At All,Not At All,Moderately,A Little,A Little,Not At All,Not At All,A Little,Quite a Lot,Not At All,Not At All,Quite a Lot,Not At All,A Little,Quite a Lot,A Little,A Little,A Little,2 - sometimes,3 - fairly often,2 - sometimes,3 - fairly often,1 - almost never,1 - almost never,3 - fairly often,3 - fairly often,2 - sometimes,1 - almost never,Very much so,Moderately so,Not at all,Somewhat,Moderately so,Not at all,Moderately so,Moderately so,Not at all,Moderately so,Moderately so,Not at all,Not at all,Not at all,Moderately so,Moderately so,Somewhat,Not at all,Moderately so,Moderately so,Moderately so,Not at all,Moderately so,Not at all,Not at all,Somewhat,Moderately so,Not at all,Somewhat,Moderately so,Not at all,Not at all,Moderately so,Very much so,Not at all,Moderately so,Somewhat,Not at all,Moderately so,Somewhat,Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),TRUE of me,TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,UNTRUE of me,TRUE of me,Very TRUE of me,TRUE of me,Very TRUE of me,UNTRUE of me,UNTRUE of me,Very TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Very TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Exactly true,Exactly true,Moderately true,Moderately true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Moderately true,Strongly disagree,2,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,"Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+",3,2,2,2,"Strongly Agree
+7
+",2,2,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",3,"Strongly Disagree
+1
+",6,"Strongly Agree
+7
+",3,"Strongly Disagree
+1
+",6,2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,"Strongly Disagree
+1
+",6,"Neither Agree nor Disagree
+4
+","Strongly Agree
+7
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Agree
+7
+",2,2,"Strongly Disagree
+1
+",2,2,2,3,6,"Strongly Disagree
+1
+",3,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",2,"Strongly Disagree
+1
+","Strongly Agree
+7
+",2,2,"Strongly Disagree
+1
+",No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,29,Not Hispanic or Latino,Male,,Caucasian,
+2022-12-05 13:24:14,2022-12-05 13:48:45,IP Address,136.226.53.3,100,1471,True,2022-12-05 13:48:46,R_2PngAwPvjAxoZgl,,,,,39.0157,-77.0085,anonymous,EN,178,RW,A Little,Not At All,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,Moderately,Not At All,A Little,Not At All,A Little,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,2 - sometimes,2 - sometimes,3 - fairly often,2 - sometimes,3 - fairly often,3 - fairly often,3 - fairly often,2 - sometimes,1 - almost never,2 - sometimes,Moderately so,Moderately so,Not at all,Not at all,Moderately so,Not at all,Somewhat,Somewhat,Not at all,Moderately so,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Not at all,Not at all,Somewhat,Somewhat,Moderately so,Moderately so,Moderately so,Somewhat,Somewhat,Somewhat,Moderately so,Somewhat,Moderately so,Moderately so,Not at all,Somewhat,Moderately so,Somewhat,Somewhat,Moderately so,Somewhat,Somewhat,Moderately so,Somewhat,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,TRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,UNTRUE of me,TRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,2,Neither agree nor disagree,Strongly disagree,Strongly disagree,Strongly disagree,2,Strongly disagree,Strongly disagree,5,Neither agree nor disagree,2,Strongly disagree,3,3,Strongly disagree,Strongly disagree,3,6,3,3,2,3,"Neither Agree nor Disagree
+4
+",3,2,2,2,5,5,2,"Strongly Disagree
+1
+",6,3,"Neither Agree nor Disagree
+4
+",2,2,3,2,2,2,2,3,5,"Neither Agree nor Disagree
+4
+",3,3,3,2,"Strongly Disagree
+1
+",3,3,3,5,5,3,5,2,5,2,5,6,2,3,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,21,Not Hispanic or Latino,Female,,Asian,
+2022-12-15 07:01:00,2022-12-15 07:43:36,IP Address,136.226.52.248,100,2556,True,2022-12-15 07:43:37,R_24JdMS7GTJKh1gd,,,,,38.9673,-77.0684,anonymous,EN,185,RW,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Quite a Lot,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,A Little,Quite a Lot,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,1 - almost never,3 - fairly often,1 - almost never,3 - fairly often,0 - never,0 - never,3 - fairly often,3 - fairly often,1 - almost never,1 - almost never,Very much so,Very much so,Not at all,Not at all,Very much so,Not at all,Not at all,Moderately so,Not at all,Very much so,Moderately so,Not at all,Not at all,Not at all,Very much so,Very much so,Not at all,Not at all,Moderately so,Very much so,Moderately so,Not at all,Moderately so,Not at all,Not at all,Moderately so,Moderately so,Not at all,Not at all,Very much so,Not at all,Not at all,Very much so,Very much so,Not at all,Very much so,Not at all,Not at all,Moderately so,Not at all,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),TRUE of me,TRUE of me,Very UNTRUE of me,UNTRUE of me,Very UNTRUE of me,Very UNTRUE of me,TRUE of me,Very UNTRUE of me,Very UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Somewhat TRUE of me,UNTRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,TRUE of me,Very UNTRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,Exactly true,Moderately true,Moderately true,Moderately true,Moderately true,Exactly true,Moderately true,Moderately true,Moderately true,Moderately true,2,Strongly disagree,6,Strongly disagree,Strongly disagree,Strongly disagree,2,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2,Strongly disagree,3,5,"Strongly Disagree
+1
+",6,"Neither Agree nor Disagree
+4
+","Strongly Agree
+7
+",6,6,6,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,2,2,"Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,"Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,5,"Strongly Disagree
+1
+","Strongly Agree
+7
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,"Strongly Disagree
+1
+","Strongly Agree
+7
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",2,"Strongly Agree
+7
+","Strongly Disagree
+1
+",3,5,6,5,2,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,35,Not Hispanic or Latino,Female,,Black or African-American,
+2023-01-05 12:49:16,2023-01-05 13:10:43,IP Address,136.226.53.16,100,1286,True,2023-01-05 13:10:44,R_2Yh8CgNAEqONIZU,,,,,35.9806,-78.8426,anonymous,EN,192,RW,A Little,Not At All,A Little,Not At All,A Little,Moderately,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Moderately,A Little,Not At All,Not At All,Not At All,A Little,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,A Little,A Little,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Moderately,Moderately,Not At All,Not At All,3 - fairly often,2 - sometimes,3 - fairly often,2 - sometimes,2 - sometimes,2 - sometimes,3 - fairly often,2 - sometimes,2 - sometimes,2 - sometimes,Moderately so,Moderately so,Not at all,Not at all,Moderately so,Not at all,Moderately so,Moderately so,Not at all,Moderately so,Somewhat,Not at all,Not at all,Not at all,Moderately so,Moderately so,Not at all,Not at all,Somewhat,Very much so,Very much so,Not at all,Moderately so,Somewhat,Somewhat,Moderately so,Moderately so,Somewhat,Very much so,Moderately so,Not at all,Somewhat,Moderately so,Moderately so,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Moderately so,Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Very TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Very TRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Somewhat UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat UNTRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,Moderately true,Moderately true,Exactly true,Moderately true,Moderately true,Exactly true,Hardly true,Moderately true,Moderately true,Moderately true,Strongly disagree,Neither agree nor disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+",5,"Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+",6,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+",6,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+",6,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,22,Not Hispanic or Latino,Female,,Asian,
+2023-01-12 10:48:32,2023-01-12 11:06:14,IP Address,136.226.48.254,100,1061,True,2023-01-12 11:06:15,R_3JDVv7VBmbBmWpa,,,,,38.9258,-77.3939,anonymous,EN,188,RW,A Little,Not At All,Moderately,A Little,Moderately,A Little,Not At All,Not At All,A Little,Not At All,A Little,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,A Little,Quite a Lot,Not At All,Not At All,Not At All,A Little,Not At All,Quite a Lot,Not At All,A Little,A Little,Not At All,A Little,Moderately,Not At All,Not At All,Moderately,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,1 - almost never,0 - never,1 - almost never,4 - very often,1 - almost never,1 - almost never,1 - almost never,3 - fairly often,2 - sometimes,1 - almost never,Moderately so,Very much so,Somewhat,Not at all,Moderately so,Not at all,Not at all,Very much so,Not at all,Very much so,Very much so,Somewhat,Not at all,Not at all,Moderately so,Moderately so,Not at all,Not at all,Very much so,Moderately so,Very much so,Not at all,Very much so,Not at all,Not at all,Moderately so,Moderately so,Somewhat,Not at all,Very much so,Not at all,Not at all,Very much so,Very much so,Somewhat,Very much so,Not at all,Not at all,Very much so,Somewhat,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Very UNTRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very UNTRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Very UNTRUE of me,TRUE of me,Somewhat TRUE of me,TRUE of me,Very UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,UNTRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Very UNTRUE of me,Very UNTRUE of me,Moderately true,Hardly true,Exactly true,Exactly true,Exactly true,Exactly true,Hardly true,Moderately true,Hardly true,Moderately true,Strongly disagree,2,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,5,Strongly disagree,Strongly disagree,Strongly disagree,3,Strongly disagree,2,6,"Strongly Disagree
+1
+",6,"Neither Agree nor Disagree
+4
+",2,3,"Neither Agree nor Disagree
+4
+",3,3,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+","Strongly Agree
+7
+",3,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+","Strongly Disagree
+1
+",5,"Strongly Disagree
+1
+",2,5,"Strongly Disagree
+1
+",6,2,5,2,"Strongly Agree
+7
+",2,2,"Strongly Disagree
+1
+","Strongly Disagree
+1
+",6,6,6,5,2,5,"Strongly Disagree
+1
+",6,"Strongly Disagree
+1
+",2,3,"Strongly Agree
+7
+",2,"Neither Agree nor Disagree
+4
+",No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,23,Not Hispanic or Latino,Female,,"Asian,Caucasian",
+2023-02-21 10:30:38,2023-02-21 10:49:10,IP Address,152.3.43.230,100,1112,True,2023-02-21 10:49:11,R_SNNQxb5aLKSuMSZ,,,,,36.0251,-78.9217,anonymous,EN,198,RW,A Little,Not At All,Not At All,Not At All,Moderately,Moderately,Not At All,Not At All,A Little,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,A Little,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,Not At All,Not At All,Moderately,Not At All,Not At All,Not At All,2 - sometimes,2 - sometimes,3 - fairly often,3 - fairly often,1 - almost never,1 - almost never,3 - fairly often,3 - fairly often,1 - almost never,0 - never,Somewhat,Somewhat,Not at all,Not at all,Somewhat,Not at all,Moderately so,Somewhat,Not at all,Moderately so,Moderately so,Somewhat,Not at all,Somewhat,Somewhat,Somewhat,Somewhat,Not at all,Moderately so,Somewhat,Moderately so,Somewhat,Moderately so,Moderately so,Not at all,Somewhat,Somewhat,Not at all,Moderately so,Moderately so,Not at all,Not at all,Moderately so,Not at all,Not at all,Moderately so,Not at all,Somewhat,Moderately so,Somewhat,Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Occasionally or a moderate amount of time (3-4 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),TRUE of me,TRUE of me,Very TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Very TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat TRUE of me,TRUE of me,TRUE of me,UNTRUE of me,Very TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,TRUE of me,Very UNTRUE of me,Somewhat UNTRUE of me,Very TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,UNTRUE of me,TRUE of me,TRUE of me,Somewhat UNTRUE of me,TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,UNTRUE of me,Somewhat TRUE of me,UNTRUE of me,TRUE of me,Exactly true,Moderately true,Moderately true,Moderately true,Moderately true,Moderately true,Hardly true,Moderately true,Moderately true,Moderately true,2,2,2,2,2,2,2,2,2,2,5,2,2,2,3,Strongly disagree,"Neither Agree nor Disagree
+4
+",6,3,5,2,5,3,"Neither Agree nor Disagree
+4
+",5,"Neither Agree nor Disagree
+4
+",2,"Neither Agree nor Disagree
+4
+",2,2,"Neither Agree nor Disagree
+4
+",6,2,2,"Neither Agree nor Disagree
+4
+",2,5,2,2,2,2,5,6,"Neither Agree nor Disagree
+4
+",2,"Neither Agree nor Disagree
+4
+",2,3,2,3,5,"Neither Agree nor Disagree
+4
+",6,5,2,5,2,3,3,2,6,5,"Neither Agree nor Disagree
+4
+",2,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,26,Not Hispanic or Latino,Female,,Caucasian,
+2023-02-23 07:25:34,2023-02-23 07:48:50,IP Address,152.3.43.230,100,1396,True,2023-02-23 07:48:51,R_29deMKuI9Izf2HM,,,,,36.0251,-78.9217,anonymous,EN,199,RW,A Little,Not At All,Not At All,Not At All,Quite a Lot,Quite a Lot,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,Quite a Lot,Not At All,A Little,A Little,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Not At All,Not At All,Not At All,Quite a Lot,Not At All,Not At All,A Little,Not At All,Not At All,Quite a Lot,Not At All,Not At All,Moderately,Not At All,A Little,A Little,A Little,Not At All,Not At All,1 - almost never,1 - almost never,2 - sometimes,3 - fairly often,1 - almost never,1 - almost never,3 - fairly often,3 - fairly often,1 - almost never,1 - almost never,Moderately so,Moderately so,Somewhat,Not at all,Moderately so,Not at all,Somewhat,Moderately so,Not at all,Moderately so,Very much so,Somewhat,Somewhat,Somewhat,Moderately so,Very much so,Somewhat,Not at all,Moderately so,Very much so,Very much so,Somewhat,Very much so,Not at all,Not at all,Moderately so,Moderately so,Not at all,Somewhat,Very much so,Not at all,Not at all,Moderately so,Moderately so,Not at all,Moderately so,Not at all,Not at all,Very much so,Somewhat,Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Rarely or none of the time (less than 1 day),Most or all of the time (5-7 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Rarely or none of the time (less than 1 day),Some or a little of the time (1-2 days),Very TRUE of me,Very TRUE of me,UNTRUE of me,TRUE of me,Somewhat UNTRUE of me,Somewhat UNTRUE of me,Very TRUE of me,UNTRUE of me,TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,TRUE of me,Somewhat TRUE of me,UNTRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,Somewhat UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Very TRUE of me,Very UNTRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Very TRUE of me,TRUE of me,TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat TRUE of me,Somewhat UNTRUE of me,Exactly true,Moderately true,Moderately true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,Exactly true,2,2,6,Strongly disagree,Strongly disagree,Strongly disagree,3,2,2,2,3,2,2,2,2,Strongly disagree,2,5,3,5,3,"Neither Agree nor Disagree
+4
+",3,"Neither Agree nor Disagree
+4
+",5,5,2,5,3,"Strongly Disagree
+1
+","Neither Agree nor Disagree
+4
+",6,3,3,2,2,6,2,2,2,"Neither Agree nor Disagree
+4
+",5,5,"Neither Agree nor Disagree
+4
+",2,5,3,3,"Strongly Disagree
+1
+",2,6,6,"Strongly Agree
+7
+",5,2,2,2,5,2,2,5,5,3,3,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,30,Not Hispanic or Latino,Female,,Caucasian,
