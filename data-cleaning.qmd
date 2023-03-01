@@ -48,9 +48,15 @@ totals <- df %>%
 totals
 ```
 ```{r}
-write_csv(totals, paste0(q_name, "_subject_scores.csv"))
+#write_csv(totals, paste0(q_name, "_subject_scores.csv"))
 ```
 
+```{r}
+ggplot(data=totals, mapping=aes(x=total)) +
+  geom_histogram() +
+  xlab('CES-D score') +
+  labs(title = "Distribution of CES-D scores")
+```
 
 
 
