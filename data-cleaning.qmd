@@ -11,8 +11,47 @@ library(tidyverse)
 
 ```{r}
 responses <- read_csv("data/rtLife - Pre-Scan Questionnaires_February 23, 2023_14.13.csv")
+responses <- responses %>%
+  slice(-(1:2))
+```
+
+```{r}
+# parameters
+q_name = "CES-D"
+factor_order = c("Rarely or none of the time (less than 1 day)",
+                  "Some or a little of the time (1-2 days)",
+                  "Occasionally or a moderate amount of time (3-4 days)",
+                  "Most or all of the time (5-7 days)")
+reversed = c(4,8,12,16)
+
+# function
+df <- responses %>%
+  select(subject_id, contains(q_name))
+
+items <- df %>%
+  select(-subject_id) %>%
+  colnames()
+
+rev_items = paste0(q_name, "_", as.character(reversed))
+
+df[items] <- lapply(df[items], factor, levels = factor_order, ordered=T)
+df[items] <- lapply(df[items], FUN = function(x) as.numeric(x) - 1)
+
+df[rev_items] <- lapply(df[rev_items], FUN = function(x) -x + 3)
+
+totals <- df %>%
+  mutate(total = rowSums(across(items))) %>%
+  select(subject_id, total)
+```
+
+```{r}
+totals
 ```
 ```{r}
-responses
+write_csv(totals, paste0(q_name, "_subject_scores.csv"))
 ```
+
+
+
+
 
