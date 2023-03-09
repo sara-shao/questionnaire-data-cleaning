@@ -12,8 +12,12 @@ library(tidyverse)
 ```{r}
 responses <- read_csv("data/rtLife - Pre-Scan Questionnaires_February 23, 2023_14.13.csv")
 responses <- responses %>%
-  slice(-(1:2))
+  slice(-(1:2)) %>%
+  filter(Finished == 'True') %>%
+  distinct(subject_id, .keep_all= TRUE, fromLast=T)
 ```
+
+
 
 ```{r}
 # parameters
@@ -45,19 +49,180 @@ totals <- df %>%
 ```
 
 ```{r}
-totals
+totals <- totals %>%
+  rename(CES_D = total)
+nrow(totals)
 ```
+
 ```{r}
 #write_csv(totals, paste0(q_name, "_subject_scores.csv"))
 ```
 
 ```{r}
-ggplot(data=totals, mapping=aes(x=total)) +
+ggplot(data=totals, mapping=aes(x=CES_D)) +
   geom_histogram() +
   xlab('CES-D score') +
   labs(title = "Distribution of CES-D scores")
 ```
 
 
+```{r}
+calc_total<- function(df = responses, q_name, factor_order, reversed, i=0, r=3) {
+  df <- df %>%
+  select(subject_id, contains(q_name))
 
+  items <- df %>%
+    select(-subject_id) %>%
+    colnames()
+
+  rev_items = paste0(q_name, "_", as.character(reversed))
+
+  df[items] <- lapply(df[items], factor, levels = factor_order, ordered=T)
+  df[items] <- lapply(df[items], FUN = function(x) as.numeric(x) - 1 + i)
+
+  df[rev_items] <- lapply(df[rev_items], FUN = function(x) -x + r + 2*i)
+
+  totals <- df %>%
+    mutate(total = rowSums(across(items))) %>%
+    select(subject_id, total)
+  
+  return (totals)
+}
+```
+
+```{r}
+q_name = "stai_state"
+factor_order = c("Not at all",
+                  "Somewhat",
+                  "Moderately so",
+                  "Very much so")
+reversed = c(1,2,5,8,10,11,15,16,19,20)
+offset=1
+
+
+stai_state <- calc_total(q_name=q_name, factor_order=factor_order, reversed=reversed, i=offset) %>%
+  rename(stai_state=total)
+```
+
+```{r}
+totals <- left_join(totals, stai_state)
+nrow(totals)
+```
+
+```{r}
+q_name = "stai_trait"
+factor_order = c("Not at all",
+                  "Somewhat",
+                  "Moderately so",
+                  "Very much so")
+reversed = c(1,3,6,7,10,13,14,16,19)
+offset=1
+
+
+stai_trait <- calc_total(q_name=q_name, factor_order=factor_order, reversed=reversed, i=offset) %>%
+  rename(stai_trait=total)
+
+totals <- left_join(totals, stai_trait)
+```
+
+```{r}
+q_name = "PSS"
+factor_order = c("0 - never",
+                  "1 - almost never",
+                  "2 - sometimes",
+                  "3 - fairly often",
+                 "4 - very often")
+reversed = c(4,5,7,8)
+
+
+pss <- calc_total(q_name=q_name, factor_order=factor_order, reversed=reversed, r=4) %>%
+  rename(PSS=total)
+
+totals <- left_join(totals, pss)
+```
+
+```{r}
+nrow(totals)
+```
+
+
+```{r}
+responses2 <- read_csv("data/rtLife - Post-Scan Questionnaires_March 2, 2023_10.52.csv")
+responses2 <- responses2 %>%
+  slice(-(1:2)) %>%
+  filter(Finished == 'True')%>%
+  distinct(subject_id, .keep_all= TRUE, fromLast=T)
+```
+
+```{r}
+q_name = "SHAPS"
+
+# function
+df <- responses2 %>%
+  select(subject_id, contains(q_name))
+
+items <- df %>%
+  select(-subject_id) %>%
+  colnames()
+
+df <- df %>%
+  mutate(across(items, 
+             ~ case_when(. == "Strongly disagree" ~ 1,
+                         . == "Disagree" ~ 1,
+                         . == "Agree" ~ 0,
+                         . == "Strongly agree" ~ 0)))
+
+shaps <- df %>%
+  mutate(SHAPS = rowSums(across(items))) %>%
+  select(subject_id, SHAPS)
+```
+
+```{r}
+totals <- left_join(totals, shaps)
+```
+```{r}
+nrow(totals)
+```
+
+
+```{r}
+# parameters
+q_name = "TEPS_Items"
+factor_order = c("very false for me",
+                 "moderately false for me",
+                 "slightly false for me",
+                 "slightly true for me",
+                 "moderately true for me",
+                 "very true for me")
+reversed = c("10-18_4")
+
+teps <- calc_total(df=responses2, q_name=q_name, factor_order=factor_order, reversed=reversed, i=1, r=5) %>%
+  rename(TEPS=total)
+
+totals <- left_join(totals, teps)
+```
+```{r}
+totals <- totals %>%
+  filter(subject_id != "x")
+```
+
+```{r}
+totals
+```
+
+
+```{r}
+#write_csv(totals, "subject_scores.csv")
+```
+
+```{r}
+plot_tbl <- totals %>% 
+  pivot_longer(! subject_id, names_to = "Questionnaire", values_to = "Total Score")
+```
+
+```{r}
+ggplot(data = plot_tbl, mapping = aes(x = `Total Score`)) +
+  geom_histogram() +
+  facet_wrap(vars(Questionnaire), scales = "free")
+```
 
